@@ -16,7 +16,7 @@
 | Файл | Зачем |
 |---|---|
 | `BOT_INSTRUCTIONS.md` | Системный промпт для ИИ-ассистента: сценарий из 3 ответов, правила по ценам и когда звать менеджера |
-| `sync_catalog.py` | Скрипт: читает все карточки из Dropbox, делает прямые ссылки на фото, видео и PDF, собирает базу |
+| `sync_catalog.py` | Скрипт: читает все карточки из Dropbox, берёт фото и видео с сайта каталога, собирает базу |
 | `catalog/products.json` | База для автоматизаций (Make, ChatPlace API, вебхуки): артикул → тексты ответов + ссылки на файлы |
 | `catalog/products.csv` | Та же база таблицей (открывается в Excel, импортируется в конструкторы ботов) |
 | `catalog/knowledge_base.md` | Текст для загрузки в «Базу знаний» ИИ-ассистента |
@@ -27,7 +27,7 @@
 
 1. Один раз создайте токен Dropbox: https://www.dropbox.com/developers/apps →
    *Create app* → *Scoped access* → *Full Dropbox* → вкладка *Permissions*:
-   `files.metadata.read`, `files.content.read`, `sharing.read`, `sharing.write` →
+   `files.metadata.read`, `files.content.read` →
    вкладка *Settings* → *Generate access token*.
 2. Запустите (PowerShell):
 
@@ -47,12 +47,17 @@ python sync_catalog.py
 `АРТИКУЛ.pdf`, `АРТИКУЛ-описание.pdf`, `АРТИКУЛ-описание.html` в нужную категорию.
 Папка `_старое` пропускается.
 
-Флаг `--no-links` собирает только тексты, без создания ссылок (быстро, для проверки).
+Фото и видео бот берёт с сайта каталога — поэтому новое изделие должно быть
+выложено и в Dropbox (карточка), и на сайт (фото/видео). Если изделия на сайте нет,
+бот отдаёт диалог менеджеру.
+
+Флаг `--pdf-links` дополнительно создаёт публичные ссылки Dropbox на PDF-карточки
+(нужны права `sharing.read`, `sharing.write`) — тогда бот прикладывает и PDF.
 
 ## Подключение к платформе
 
 - **ИИ-ассистент (ChatPlace, ManyChat AI и др.)** — инструкция из `BOT_INSTRUCTIONS.md`
   + файл `knowledge_base.md` в базу знаний. Бот берёт ссылки на фото/видео/PDF прямо из базы.
 - **Сценарий без ИИ (Make / n8n)** — входящее сообщение → найти артикул регуляркой
-  `[A-Z]{1,3}[- ]?\d{6}` → найти строку в `products.json` → отправить `links.photos` + `links.video`;
-  на ответ «да» — `links.card_short` + `reply_short`; дальше — `links.card_long` + `reply_long`.
+  `[A-Z]{1,3}[- ]?\d{6}` → найти строку в `products.json` → отправить `media.photos` + `media.video`;
+  на ответ «да» — `reply_short`; дальше — `reply_long` (PDF из `links.*`, если собраны с `--pdf-links`).

@@ -9,8 +9,9 @@
        видео     ART.mp4
        короткая  ART.pdf              (карточка с ценой)
        подробная ART-описание.pdf     (полная карточка)
-  3. Создаёт (или берёт уже существующие) публичные ссылки Dropbox и
-     превращает их в прямые (raw=1), чтобы бот мог отправить файл клиенту.
+  3. Берёт публичные фото и видео с сайта каталога
+     (serene-cucurucho-853f94.netlify.app/assets/img/<АРТ>/N.jpg и assets/360/<АРТ>.mp4).
+     С флагом --pdf-links дополнительно создаёт публичные ссылки Dropbox на PDF-карточки.
   4. Читает ART-описание.html и вытаскивает название, характеристики, цены.
   5. Пишет:
        catalog/products.json   — полная база (для автоматизаций: Make, ChatPlace, API)
@@ -24,7 +25,7 @@
     python sync_catalog.py
 
 Токен: https://www.dropbox.com/developers/apps -> Create app -> Scoped access ->
-права files.metadata.read, files.content.read, sharing.read, sharing.write ->
+права files.metadata.read, files.content.read (+ sharing.read, sharing.write для --pdf-links) ->
 Generate access token.
 
 Запускать заново каждый раз, когда добавились/изменились карточки.
@@ -244,12 +245,42 @@ def long_text(p):
     return "\n".join(l for l in lines if l is not None).strip()
 
 
+# ------------------------------------------------ фото и видео с сайта каталога
+def load_site_items():
+    """Список изделий с сайта каталога (там лежат публичные фото и видео)."""
+    req = urllib.request.Request(CATALOG_SITE + "/", headers={"User-Agent": "amar-catalog-sync"})
+    with urllib.request.urlopen(req, timeout=60) as r:
+        src = r.read().decode("utf-8", "replace")
+    i = src.index("const ITEMS=") + len("const ITEMS=")
+    items, _ = json.JSONDecoder().raw_decode(src[i:])
+    return {x["art"]: x for x in items}
+
+
+def site_media(art, site):
+    """Публичные ссылки на фото/видео. Варианты (BR-270106-3) берут фото основного артикула."""
+    key = art if art in site else re.sub(r"-\d+$", "", art)
+    item = site.get(key)
+    if not item:
+        return None
+    n = max(1, min(int(item.get("n") or 1), 4))
+    return {"site_art": key,
+            "photos": [f"{CATALOG_SITE}/assets/img/{key}/{k}.jpg" for k in range(1, n + 1)],
+            "video": f"{CATALOG_SITE}/assets/360/{key}.mp4" if item.get("vid") else None,
+            "same_as_base": key != art}
+
+
 # ------------------------------------------------------------------- main
 def main():
     OUT.mkdir(exist_ok=True)
     cache_f = OUT / ".links_cache.json"
     cache = json.loads(cache_f.read_text("utf-8")) if cache_f.exists() else {}
-    no_links = "--no-links" in sys.argv
+    pdf_links = "--pdf-links" in sys.argv
+    print("Читаю каталог на сайте (фото и видео)…")
+    try:
+        site = load_site_items()
+    except Exception as ex:  # noqa: BLE001
+        print("  не удалось открыть сайт каталога:", ex)
+        site = {}
 
     print("Читаю список файлов в Dropbox…")
     entries = list_all(ROOT)
@@ -288,7 +319,8 @@ def main():
                  "card_short": files.get(f"{art}.pdf"),
                  "card_long": files.get(f"{art}-описание.pdf")}
         p["dropbox"] = media
-        if not no_links:
+        p["media"] = site_media(art, site)
+        if pdf_links:
             try:
                 p["links"] = {
                     "photos": [shared_link(x, cache) for x in media["photos"]],
@@ -321,25 +353,37 @@ def write_outputs(products):
                     "video", "card_short", "card_long", "reply_short", "reply_long"])
         for p in products:
             L = p.get("links") or {}
-            ph = (L.get("photos") or []) + [""] * 4
+            M = p.get("media") or {}
+            ph = (M.get("photos") or L.get("photos") or []) + [""] * 4
             w.writerow([p["art"], p["category"], p["name"], p["specs"].get("Металл", ""),
-                        *ph[:4], L.get("video") or "", L.get("card_short") or "",
+                        *ph[:4], M.get("video") or L.get("video") or "", L.get("card_short") or "",
                         L.get("card_long") or "", p["reply_short"], p["reply_long"]])
 
     md = ["# База знаний A/MAR — карточки изделий", "",
           f"Обновлено: {time.strftime('%Y-%m-%d')} · изделий: {len(products)}", ""]
     for p in products:
         L = p.get("links") or {}
+        M = p.get("media") or {}
         md += [f"## {p['art']}", "", f"Категория: {p['category']}" + (f" / {p['subfolder']}" if p.get("subfolder") else ""), ""]
-        md += ["### Короткая карточка", "", p["reply_short"], ""]
-        md += ["### Подробная карточка", "", p["reply_long"], ""]
-        if L:
-            md += ["### Файлы для отправки", ""]
-            md += [f"- Фото {i}: {u}" for i, u in enumerate(L.get("photos") or [], 1)]
-            for k, t in (("video", "Видео"), ("card_short", "Короткая карточка (PDF)"), ("card_long", "Подробная карточка (PDF)")):
-                if L.get(k):
-                    md.append(f"- {t}: {L[k]}")
-            md.append("")
+        md += ["### Ответ 1 — фото и видео", ""]
+        photos = M.get("photos") or L.get("photos") or []
+        video = M.get("video") or L.get("video")
+        if photos or video:
+            if M.get("same_as_base"):
+                md.append(f"(фото модели {M['site_art']} — та же модель, другой вариант)")
+            md += [f"- Фото {i}: {u}" for i, u in enumerate(photos[:2], 1)]
+            if video:
+                md.append(f"- Видео: {video}")
+            md += [f"- Ещё фото: {u}" for u in photos[2:]]
+        else:
+            md.append("Фото и видео в базе нет — скажи, что менеджер пришлёт фото, и передай диалог менеджеру.")
+        md += ["", f"Подпись: {p['art']} — {p['name']}. Прислать карточку с ценой?", ""]
+        md += ["### Ответ 2 — короткая карточка", "", p["reply_short"], ""]
+        if L.get("card_short"):
+            md += [f"PDF: {L['card_short']}", ""]
+        md += ["### Ответ 3 — подробная карточка", "", p["reply_long"], ""]
+        if L.get("card_long"):
+            md += [f"PDF: {L['card_long']}", ""]
     (OUT / "knowledge_base.md").write_text("\n".join(md), "utf-8")
 
 
