@@ -45,6 +45,8 @@ from pathlib import Path
 ROOT = os.environ.get("AMAR_DROPBOX_ROOT", "/ювилирка/для сайта офиц/КАРТОЧКИ ГОТОВЫЕ")
 SKIP_DIRS = {"_старое"}
 OUT = Path(__file__).resolve().parent / "catalog"
+# Где эта же папка Dropbox лежит у вас на компьютере (для отправки PDF-карточек из WhatsApp Web)
+LOCAL_BASE = os.environ.get("AMAR_LOCAL_BASE", r"C:\Users\m7013\Desktop\раб стол\Рабочий стол")
 CATALOG_SITE = "https://serene-cucurucho-853f94.netlify.app"
 WHATSAPP = "https://wa.me/996550339966"
 ART_RE = re.compile(r"^[A-Z]{1,3}-\d{3,}(?:-\d+)?$")
@@ -291,7 +293,7 @@ def add_site_only(products, site):
         media = site_media(art, site)
         if variants:
             base = have[variants[0]]
-            p = {k: v for k, v in base.items() if k not in ("links", "dropbox", "media")}
+            p = {k: v for k, v in base.items() if k not in ("links", "media")}
             p.update(art=art, media=media, variants=variants)
             p["reply_short"] = base["reply_short"].replace(variants[0], art, 1) + \
                 f"\n(Варианты этой модели: {', '.join(variants)})"
@@ -381,6 +383,18 @@ def main():
     print(f"Готово: {len(products)} изделий -> {OUT}")
 
 
+def local_path(dropbox_path):
+    return (LOCAL_BASE.rstrip("\\") + dropbox_path.replace("/", "\\")) if dropbox_path else None
+
+
+def card_caption(p, long=False):
+    if long:
+        return f"{p['art']} — подробная карточка с характеристиками 🤍"
+    ask = "Какой карат, металл и размер кольца вам подходят?" if p.get("category") == "Кольца" \
+        else "Какой вариант вам подходит?"
+    return f"{p['art']} — {p['name']}. Цены по вариантам — в карточке. {ask}"
+
+
 def write_outputs(products):
     OUT.mkdir(exist_ok=True)
     (OUT / "products.json").write_text(json.dumps(
@@ -422,12 +436,17 @@ def write_outputs(products):
         md += ["", f"Подпись: {p['art']} — {p['name']}. {ask}", ""]
         if p.get("no_card"):
             md += ["Карточки с ценой нет: после ответа клиента передай диалог менеджеру.", ""]
-        md += ["### Ответ 2 — короткая карточка", "", p["reply_short"], ""]
-        if L.get("card_short"):
-            md += [f"PDF: {L['card_short']}", ""]
-        md += ["### Ответ 3 — подробная карточка", "", p["reply_long"], ""]
-        if L.get("card_long"):
-            md += [f"PDF: {L['card_long']}", ""]
+        D = p.get("dropbox") or {}
+        for title, key, long, text in (("Ответ 2 — короткая карточка", "card_short", False, p["reply_short"]),
+                                       ("Ответ 3 — подробная карточка", "card_long", True, p["reply_long"])):
+            md += [f"### {title}", ""]
+            if D.get(key) and not p.get("no_card"):
+                md += [f"ФАЙЛ (отправить документом через 📎): {local_path(D[key])}"]
+                if L.get(key):
+                    md.append(f"Ссылка на файл: {L[key]}")
+                md += [f"Подпись к файлу: {card_caption(p, long)}", "",
+                       "Текст ниже — только для справки (цены, характеристики), клиенту его не отправлять:", ""]
+            md += [text, ""]
     (OUT / "knowledge_base.md").write_text("\n".join(md), "utf-8")
 
 
