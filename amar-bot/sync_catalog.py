@@ -179,7 +179,7 @@ def parse_card(src, art):
         elif section == "Описание":
             card["description"] = (card["description"] + " " + l).strip()
         elif section and section.startswith("Цена") and len(cells) >= 2:
-            if header is None and not any("$" in c for c in cells):
+            if header is None and not any("$" in c or "запрос" in c for c in cells):
                 header = cells
             else:
                 keys = header if header and len(header) == len(cells) else [f"col{k}" for k in range(len(cells))]
@@ -191,23 +191,37 @@ def parse_card(src, art):
 def price_lines(prices):
     out = []
     for row in prices:
-        vals = list(row.items())
-        if vals and "$" not in vals[0][1]:
-            label, rest = vals[0][1], vals[1:]
-            out.append(f"{label}: " + " · ".join(f"{k.replace('Золото ', '')} — {v}" for k, v in rest))
+        vals = list(row.values()) if isinstance(row, dict) else list(row)
+        keys = list(row.keys()) if isinstance(row, dict) else []
+        if not vals:
+            continue
+        if len(vals) == 2 and "$" not in vals[0] and "запрос" not in vals[0]:
+            out.append(f"{vals[0]}: {vals[1]}")
+        elif "$" not in vals[0] and "запрос" not in vals[0]:
+            out.append(f"{vals[0]}: " + " · ".join(
+                f"{k.replace('Золото ', '')} — {v}" for k, v in zip(keys[1:], vals[1:])))
         else:
-            out.append(" · ".join(f"{k} — {v}" for k, v in vals))
+            out.append(" · ".join(f"{k} — {v}" for k, v in zip(keys, vals)))
     return out
 
 
+INTERNAL = re.compile(r"исходник|перенес[её]н|в папке", re.I)
+
+
+def public_specs(specs):
+    return {k: v for k, v in specs.items() if not INTERNAL.search(f"{k} {v}")}
+
+
 def short_text(p):
-    s = p["specs"]
+    s = public_specs(p["specs"])
     metal = s.get("Металл", "")
     lines = [f"{p['art']} — {p['name']}".strip(" —")]
     if metal:
         lines.append(f"Металл: {metal}")
     lines += price_lines(p["prices"])
-    lines.append("Выращенные бриллианты, сертификат IGI · рассрочка 0% MBANK / ZERO")
+    cert = " ".join(v for k, v in s.items() if k.lower().startswith("сертификат"))
+    lines.append(("Выращенные бриллианты, сертификат IGI · " if "IGI" in cert else "")
+                 + ("рассрочка" if "IGI" in cert else "Рассрочка") + " 0% MBANK / ZERO")
     if p["category"] == "Кольца":
         lines.append("Цена может измениться в зависимости от размера кольца.")
     lines.append("Хотите подробную карточку с характеристиками?")
@@ -216,7 +230,7 @@ def short_text(p):
 
 def long_text(p):
     lines = [f"{p['art']} — {p['name']}", p["tagline"], ""]
-    lines += [f"{k}: {v}" for k, v in p["specs"].items()]
+    lines += [f"{k}: {v}" for k, v in public_specs(p["specs"]).items()]
     if p["description"]:
         lines += ["", p["description"]]
     if p["prices"]:
