@@ -269,6 +269,45 @@ def site_media(art, site):
             "same_as_base": key != art}
 
 
+SITE_CATS = {"rings": "Кольца", "earrings": "Серьги", "bracelets": "Браслеты", "pendants": "Подвески и кулоны",
+             "necklace": "Ожерелья", "chains": "Цепочки", "sets": "Гарнитура", "stones": "Драгоценные камни"}
+NO_CARD_SHORT = ("{art} — {name}\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\n"
+                 "Подскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?")
+
+
+def add_site_only(products, site):
+    """Позиции сайта каталога, для которых нет карточки в Dropbox.
+
+    - основной артикул, у которого в Dropbox есть только варианты (R-138519 -> R-138519-1):
+      берём карточку первого варианта;
+    - позиция без карточки (1-2, JOB-4167…): фото/видео с сайта, цену уточняет менеджер.
+    """
+    have = {p["art"]: p for p in products}
+    added = []
+    for art, item in site.items():
+        if art in have or re.sub(r"-\d+$", "", art) in have:
+            continue
+        variants = sorted(a for a in have if a.startswith(art + "-"))
+        media = site_media(art, site)
+        if variants:
+            base = have[variants[0]]
+            p = {k: v for k, v in base.items() if k not in ("links", "dropbox", "media")}
+            p.update(art=art, media=media, variants=variants)
+            p["reply_short"] = base["reply_short"].replace(variants[0], art, 1) + \
+                f"\n(Варианты этой модели: {', '.join(variants)})"
+            p["reply_long"] = base["reply_long"].replace(variants[0], art, 1)
+        else:
+            name = re.sub(r"\s*·\s*" + re.escape(art) + r"$", "", item.get("name") or "") or "Изделие"
+            p = {"art": art, "category": SITE_CATS.get(item.get("cat"), item.get("cat") or ""),
+                 "subfolder": None, "name": name, "tagline": item.get("description") or "",
+                 "specs": {}, "description": item.get("description") or "", "prices": [],
+                 "price_note": "", "media": media, "no_card": True,
+                 "reply_short": NO_CARD_SHORT.format(art=art, name=name),
+                 "reply_long": NO_CARD_SHORT.format(art=art, name=name)}
+        added.append(p)
+    return products + added
+
+
 # ------------------------------------------------------------------- main
 def main():
     OUT.mkdir(exist_ok=True)
@@ -337,6 +376,7 @@ def main():
         p["reply_long"] = long_text(p)
         products.append(p)
 
+    products = add_site_only(products, site)
     write_outputs(products)
     print(f"Готово: {len(products)} изделий -> {OUT}")
 
@@ -377,7 +417,11 @@ def write_outputs(products):
             md += [f"- Ещё фото: {u}" for u in photos[2:]]
         else:
             md.append("Фото и видео в базе нет — скажи, что менеджер пришлёт фото, и передай диалог менеджеру.")
-        md += ["", f"Подпись: {p['art']} — {p['name']}. Прислать карточку с ценой?", ""]
+        ask = ("Подскажите металл и размер — уточню цену у менеджера 🤍" if p.get("no_card")
+               else "Прислать карточку с ценой?")
+        md += ["", f"Подпись: {p['art']} — {p['name']}. {ask}", ""]
+        if p.get("no_card"):
+            md += ["Карточки с ценой нет: после ответа клиента передай диалог менеджеру.", ""]
         md += ["### Ответ 2 — короткая карточка", "", p["reply_short"], ""]
         if L.get("card_short"):
             md += [f"PDF: {L['card_short']}", ""]

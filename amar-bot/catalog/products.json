@@ -1,6 +1,6 @@
 {
  "updated": "2026-11-11",
- "count": 482,
+ "count": 573,
  "products": [
   {
    "art": "BN-760814",
@@ -169,6 +169,70 @@
     "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/BR-155429.mp4",
     "same_as_base": false
    }
+  },
+  {
+   "art": "BR-270106",
+   "category": "Браслеты",
+   "subfolder": null,
+   "name": "Паперклип + дорожка",
+   "tagline": "Тонкий браслет-паперклип с бриллиантовой дорожкой павё.",
+   "specs": {
+    "Тип изделия": "Браслет",
+    "Металл": "Белое золото · 585 / 750",
+    "Вес золота": "~2.5 г",
+    "Основной камень": "Бриллианты (белые)",
+    "Огранка центра": "Круглая (Round)",
+    "Боковые камни": "Дорожка павё",
+    "Общий доп. вес": "~0.3 ct",
+    "Качество": "VS–SI / G–H",
+    "Тип закрепки": "Безель / павё",
+    "Стиль": "Паперклип + павё",
+    "Сертификат": "IGI"
+   },
+   "description": "Тонкий изящный браслет из белого золота, тонкий браслет-паперклип с бриллиантовой дорожкой павё.. Носится соло и в стопке (layering). На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).",
+   "prices": [
+    {
+     "Вариант": "Золото 585",
+     "Цена": "$930"
+    },
+    {
+     "Вариант": "Золото 750",
+     "Цена": "$1 170"
+    }
+   ],
+   "price_note": "Цена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.",
+   "files": {
+    "photos": [
+     "BR-270106-1.jpg",
+     "BR-270106-1-2.jpg",
+     "BR-270106-1-3.jpg",
+     "BR-270106-1-4.jpg"
+    ],
+    "video": "BR-270106-1.mp4",
+    "card_short": "BR-270106-1.pdf",
+    "card_long": "BR-270106-1-описание.pdf"
+   },
+   "reply_short": "BR-270106 — Паперклип + дорожка\nМеталл: Белое золото · 585 / 750\nЗолото 585: $930\nЗолото 750: $1 170\nВыращенные бриллианты, сертификат IGI · рассрочка 0% MBANK / ZERO\nХотите подробную карточку с характеристиками?\n(Варианты этой модели: BR-270106-1, BR-270106-2, BR-270106-3, BR-270106-4, BR-270106-5, BR-270106-6)",
+   "reply_long": "BR-270106 — Паперклип + дорожка\nТонкий браслет-паперклип с бриллиантовой дорожкой павё.\n\nТип изделия: Браслет\nМеталл: Белое золото · 585 / 750\nВес золота: ~2.5 г\nОсновной камень: Бриллианты (белые)\nОгранка центра: Круглая (Round)\nБоковые камни: Дорожка павё\nОбщий доп. вес: ~0.3 ct\nКачество: VS–SI / G–H\nТип закрепки: Безель / павё\nСтиль: Паперклип + павё\nСертификат: IGI\n\nТонкий изящный браслет из белого золота, тонкий браслет-паперклип с бриллиантовой дорожкой павё.. Носится соло и в стопке (layering). На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).\n\nЦены:\nЗолото 585: $930\nЗолото 750: $1 170\n\nЦена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.\n\nКаталог с ценами: https://serene-cucurucho-853f94.netlify.app\nВесь ассортимент (около 480 изделий): https://alma-do-mar.com/magazin\nНапишите, что понравилось — подберём размер и пришлём фото/видео 🤍\nWhatsApp: https://wa.me/996550339966",
+   "media": {
+    "site_art": "BR-270106",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/BR-270106/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/BR-270106/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/BR-270106/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/BR-270106/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/BR-270106.mp4",
+    "same_as_base": false
+   },
+   "variants": [
+    "BR-270106-1",
+    "BR-270106-2",
+    "BR-270106-3",
+    "BR-270106-4",
+    "BR-270106-5",
+    "BR-270106-6"
+   ]
   },
   {
    "art": "BR-270106-1",
@@ -787,6 +851,31 @@
    }
   },
   {
+   "art": "BR-359363",
+   "category": "Браслеты",
+   "subfolder": null,
+   "name": "Браслет-бэнгл с винтами",
+   "tagline": "Жёсткий браслет с мотивом винтов.",
+   "specs": {},
+   "description": "Жёсткий браслет с мотивом винтов.",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "BR-359363",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/BR-359363/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/BR-359363/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/BR-359363/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/BR-359363/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/BR-359363.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "BR-359363 — Браслет-бэнгл с винтами\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "BR-359363 — Браслет-бэнгл с винтами\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
    "art": "BR-371901",
    "category": "Браслеты",
    "subfolder": null,
@@ -1009,6 +1098,67 @@
     "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/BR-574103.mp4",
     "same_as_base": false
    }
+  },
+  {
+   "art": "BR-577518",
+   "category": "Браслеты",
+   "subfolder": null,
+   "name": "Бэнгл две груши",
+   "tagline": "Браслет-бэнгл (бэйпас) с двумя бриллиантами огранки груша.",
+   "specs": {
+    "Тип изделия": "Браслет-бэнгл",
+    "Металл": "Жёлтое золото · 585 / 750",
+    "Вес золота": "~4.0 г",
+    "Основной камень": "Бриллианты (белые)",
+    "Огранка центра": "Груша (Pear)",
+    "Боковые камни": "две груши",
+    "Общий доп. вес": "~0.6 ct",
+    "Качество": "VS–SI / G–H",
+    "Тип закрепки": "Крапаны",
+    "Стиль": "Бэнгл / бэйпас",
+    "Сертификат": "IGI"
+   },
+   "description": "Жёсткий браслет-бэнгл с раскрытыми концами (бэйпас) из жёлтого золота: на концах — две груши из бриллиантов. Современная база на каждый день и для стопки. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).",
+   "prices": [
+    {
+     "Вариант": "Золото 585",
+     "Цена": "$1 570"
+    },
+    {
+     "Вариант": "Золото 750",
+     "Цена": "$1 950"
+    }
+   ],
+   "price_note": "Цена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.",
+   "files": {
+    "photos": [
+     "BR-577518-1.jpg",
+     "BR-577518-1-2.jpg",
+     "BR-577518-1-3.jpg",
+     "BR-577518-1-4.jpg"
+    ],
+    "video": "BR-577518-1.mp4",
+    "card_short": "BR-577518-1.pdf",
+    "card_long": "BR-577518-1-описание.pdf"
+   },
+   "reply_short": "BR-577518 — Бэнгл две груши\nМеталл: Жёлтое золото · 585 / 750\nЗолото 585: $1 570\nЗолото 750: $1 950\nВыращенные бриллианты, сертификат IGI · рассрочка 0% MBANK / ZERO\nХотите подробную карточку с характеристиками?\n(Варианты этой модели: BR-577518-1, BR-577518-2, BR-577518-3)",
+   "reply_long": "BR-577518 — Бэнгл две груши\nБраслет-бэнгл (бэйпас) с двумя бриллиантами огранки груша.\n\nТип изделия: Браслет-бэнгл\nМеталл: Жёлтое золото · 585 / 750\nВес золота: ~4.0 г\nОсновной камень: Бриллианты (белые)\nОгранка центра: Груша (Pear)\nБоковые камни: две груши\nОбщий доп. вес: ~0.6 ct\nКачество: VS–SI / G–H\nТип закрепки: Крапаны\nСтиль: Бэнгл / бэйпас\nСертификат: IGI\n\nЖёсткий браслет-бэнгл с раскрытыми концами (бэйпас) из жёлтого золота: на концах — две груши из бриллиантов. Современная база на каждый день и для стопки. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).\n\nЦены:\nЗолото 585: $1 570\nЗолото 750: $1 950\n\nЦена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.\n\nКаталог с ценами: https://serene-cucurucho-853f94.netlify.app\nВесь ассортимент (около 480 изделий): https://alma-do-mar.com/magazin\nНапишите, что понравилось — подберём размер и пришлём фото/видео 🤍\nWhatsApp: https://wa.me/996550339966",
+   "media": {
+    "site_art": "BR-577518",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/BR-577518/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/BR-577518/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/BR-577518/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/BR-577518/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/BR-577518.mp4",
+    "same_as_base": false
+   },
+   "variants": [
+    "BR-577518-1",
+    "BR-577518-2",
+    "BR-577518-3"
+   ]
   },
   {
    "art": "BR-577518-1",
@@ -1513,6 +1663,71 @@
     "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/BR-760821.mp4",
     "same_as_base": false
    }
+  },
+  {
+   "art": "BR-787299",
+   "category": "Браслеты",
+   "subfolder": null,
+   "name": "Цепочка круглый",
+   "tagline": "Тонкий браслет-цепочка с центральным бриллиантом огранки круглый.",
+   "specs": {
+    "Тип изделия": "Браслет-цепочка",
+    "Металл": "Белое золото · 585 / 750",
+    "Вес золота": "~2.0 г",
+    "Основной камень": "Бриллиант (белый)",
+    "Огранка центра": "Круглая (Round)",
+    "Боковые камни": "нет",
+    "Общий доп. вес": "—",
+    "Качество": "VS–SI / G–H",
+    "Тип закрепки": "Крапаны",
+    "Стиль": "Цепочка / солитер",
+    "Сертификат": "IGI"
+   },
+   "description": "Тонкий браслет-цепочка из белого золота с одним бриллиантом огранки круглый в центре. Минималистичное украшение соло и для стопки. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).",
+   "prices": [
+    {
+     "Вариант": "Золото 585",
+     "Цена": "$850"
+    },
+    {
+     "Вариант": "Золото 750",
+     "Цена": "$1 040"
+    }
+   ],
+   "price_note": "Цена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.",
+   "files": {
+    "photos": [
+     "BR-787299-1.jpg",
+     "BR-787299-1-2.jpg",
+     "BR-787299-1-3.jpg",
+     "BR-787299-1-4.jpg"
+    ],
+    "video": "BR-787299-1.mp4",
+    "card_short": "BR-787299-1.pdf",
+    "card_long": "BR-787299-1-описание.pdf"
+   },
+   "reply_short": "BR-787299 — Цепочка круглый\nМеталл: Белое золото · 585 / 750\nЗолото 585: $850\nЗолото 750: $1 040\nВыращенные бриллианты, сертификат IGI · рассрочка 0% MBANK / ZERO\nХотите подробную карточку с характеристиками?\n(Варианты этой модели: BR-787299-1, BR-787299-2, BR-787299-3, BR-787299-4, BR-787299-5, BR-787299-6, BR-787299-7)",
+   "reply_long": "BR-787299 — Цепочка круглый\nТонкий браслет-цепочка с центральным бриллиантом огранки круглый.\n\nТип изделия: Браслет-цепочка\nМеталл: Белое золото · 585 / 750\nВес золота: ~2.0 г\nОсновной камень: Бриллиант (белый)\nОгранка центра: Круглая (Round)\nБоковые камни: нет\nОбщий доп. вес: —\nКачество: VS–SI / G–H\nТип закрепки: Крапаны\nСтиль: Цепочка / солитер\nСертификат: IGI\n\nТонкий браслет-цепочка из белого золота с одним бриллиантом огранки круглый в центре. Минималистичное украшение соло и для стопки. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).\n\nЦены:\nЗолото 585: $850\nЗолото 750: $1 040\n\nЦена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.\n\nКаталог с ценами: https://serene-cucurucho-853f94.netlify.app\nВесь ассортимент (около 480 изделий): https://alma-do-mar.com/magazin\nНапишите, что понравилось — подберём размер и пришлём фото/видео 🤍\nWhatsApp: https://wa.me/996550339966",
+   "media": {
+    "site_art": "BR-787299",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/BR-787299/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/BR-787299/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/BR-787299/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/BR-787299/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/BR-787299.mp4",
+    "same_as_base": false
+   },
+   "variants": [
+    "BR-787299-1",
+    "BR-787299-2",
+    "BR-787299-3",
+    "BR-787299-4",
+    "BR-787299-5",
+    "BR-787299-6",
+    "BR-787299-7"
+   ]
   },
   {
    "art": "BR-787299-1",
@@ -3230,6 +3445,556 @@
    }
   },
   {
+   "art": "1",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "1",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/1/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/1/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/1/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/1/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/1.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "1 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "1 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
+   "art": "1-2",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "1-2",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/1-2/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/1-2/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/1-2/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/1-2/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/1-2.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "1-2 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "1-2 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
+   "art": "2",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "2",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/2/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/2/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/2/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/2/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/2.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "2 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "2 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
+   "art": "3",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "3",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/3/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/3/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/3/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/3/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/3.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "3 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "3 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
+   "art": "360-JEWELRY-VIDEO",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "360-JEWELRY-VIDEO",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/360-JEWELRY-VIDEO/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/360-JEWELRY-VIDEO/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/360-JEWELRY-VIDEO/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/360-JEWELRY-VIDEO/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/360-JEWELRY-VIDEO.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "360-JEWELRY-VIDEO — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "360-JEWELRY-VIDEO — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
+   "art": "360-VIDEOS",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "360-VIDEOS",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/360-VIDEOS/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/360-VIDEOS/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/360-VIDEOS/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/360-VIDEOS/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/360-VIDEOS.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "360-VIDEOS — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "360-VIDEOS — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
+   "art": "4",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "4",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/4/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/4/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/4/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/4/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/4.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "4 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "4 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
+   "art": "5",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "5",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/5/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/5/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/5/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/5/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/5.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "5 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "5 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
+   "art": "6",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "6",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/6/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/6/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/6/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/6/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/6.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "6 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "6 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
+   "art": "ALMA-DO-MAR-25",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "ALMA-DO-MAR-25",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ALMA-DO-MAR-25/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ALMA-DO-MAR-25/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ALMA-DO-MAR-25/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ALMA-DO-MAR-25/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/ALMA-DO-MAR-25.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "ALMA-DO-MAR-25 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "ALMA-DO-MAR-25 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
+   "art": "ALMA-DO-MAR-25-1",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "ALMA-DO-MAR-25-1",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ALMA-DO-MAR-25-1/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ALMA-DO-MAR-25-1/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ALMA-DO-MAR-25-1/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ALMA-DO-MAR-25-1/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/ALMA-DO-MAR-25-1.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "ALMA-DO-MAR-25-1 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "ALMA-DO-MAR-25-1 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
+   "art": "ALMA-DO-MAR-V2",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "ALMA-DO-MAR-V2",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ALMA-DO-MAR-V2/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ALMA-DO-MAR-V2/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ALMA-DO-MAR-V2/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ALMA-DO-MAR-V2/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/ALMA-DO-MAR-V2.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "ALMA-DO-MAR-V2 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "ALMA-DO-MAR-V2 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
+   "art": "ALMA-DO-MAR-V3",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "ALMA-DO-MAR-V3",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ALMA-DO-MAR-V3/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ALMA-DO-MAR-V3/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ALMA-DO-MAR-V3/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ALMA-DO-MAR-V3/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/ALMA-DO-MAR-V3.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "ALMA-DO-MAR-V3 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "ALMA-DO-MAR-V3 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
+   "art": "ALMA-DO-MAR-V3-1",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "ALMA-DO-MAR-V3-1",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ALMA-DO-MAR-V3-1/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ALMA-DO-MAR-V3-1/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ALMA-DO-MAR-V3-1/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ALMA-DO-MAR-V3-1/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/ALMA-DO-MAR-V3-1.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "ALMA-DO-MAR-V3-1 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "ALMA-DO-MAR-V3-1 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
+   "art": "JOB-4121",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "JOB-4121",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/JOB-4121/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/JOB-4121/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/JOB-4121/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/JOB-4121/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/JOB-4121.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "JOB-4121 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "JOB-4121 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
+   "art": "JOB-4167",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "JOB-4167",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/JOB-4167/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/JOB-4167/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/JOB-4167/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/JOB-4167/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/JOB-4167.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "JOB-4167 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "JOB-4167 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
+   "art": "JOB-7062",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "JOB-7062",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/JOB-7062/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/JOB-7062/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/JOB-7062/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/JOB-7062/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/JOB-7062.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "JOB-7062 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "JOB-7062 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
+   "art": "JOB-7202",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "JOB-7202",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/JOB-7202/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/JOB-7202/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/JOB-7202/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/JOB-7202/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/JOB-7202.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "JOB-7202 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "JOB-7202 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
+   "art": "ORDER-3-360-VIDEO",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "ORDER-3-360-VIDEO",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ORDER-3-360-VIDEO/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ORDER-3-360-VIDEO/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ORDER-3-360-VIDEO/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ORDER-3-360-VIDEO/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/ORDER-3-360-VIDEO.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "ORDER-3-360-VIDEO — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "ORDER-3-360-VIDEO — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
+   "art": "ORDER-3-360-VIDEO-1",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "ORDER-3-360-VIDEO-1",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ORDER-3-360-VIDEO-1/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ORDER-3-360-VIDEO-1/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ORDER-3-360-VIDEO-1/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ORDER-3-360-VIDEO-1/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/ORDER-3-360-VIDEO-1.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "ORDER-3-360-VIDEO-1 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "ORDER-3-360-VIDEO-1 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
+   "art": "ORDER-3-360-VIDEO-2",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "ORDER-3-360-VIDEO-2",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ORDER-3-360-VIDEO-2/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ORDER-3-360-VIDEO-2/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ORDER-3-360-VIDEO-2/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ORDER-3-360-VIDEO-2/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/ORDER-3-360-VIDEO-2.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "ORDER-3-360-VIDEO-2 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "ORDER-3-360-VIDEO-2 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
+   "art": "ORDER-3-360-VIDEO-3",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "ORDER-3-360-VIDEO-3",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ORDER-3-360-VIDEO-3/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ORDER-3-360-VIDEO-3/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ORDER-3-360-VIDEO-3/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/ORDER-3-360-VIDEO-3/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/ORDER-3-360-VIDEO-3.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "ORDER-3-360-VIDEO-3 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "ORDER-3-360-VIDEO-3 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
    "art": "OTH-137165",
    "category": "Кольца",
    "subfolder": "КОЛЬЦА БЕЛОЕ ЗОЛОТО",
@@ -3280,6 +4045,78 @@
     "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/OTH-137165.mp4",
     "same_as_base": false
    }
+  },
+  {
+   "art": "OTH-679229",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо-обхват с круглым камнем",
+   "tagline": "Широкое кольцо с круглым камнем и гравировкой по ободу.",
+   "specs": {},
+   "description": "Широкое кольцо с круглым камнем и гравировкой по ободу.",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "OTH-679229",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/OTH-679229/1.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/OTH-679229.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "OTH-679229 — Кольцо-обхват с круглым камнем\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "OTH-679229 — Кольцо-обхват с круглым камнем\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
+   "art": "OTH-806946",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо-обхват с чёрным камнем",
+   "tagline": "Широкое кольцо с тёмным круглым камнем и гравировкой.",
+   "specs": {},
+   "description": "Широкое кольцо с тёмным круглым камнем и гравировкой.",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "OTH-806946",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/OTH-806946/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/OTH-806946/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/OTH-806946/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/OTH-806946/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/OTH-806946.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "OTH-806946 — Кольцо-обхват с чёрным камнем\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "OTH-806946 — Кольцо-обхват с чёрным камнем\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
+   "art": "R-100768",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-100768",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-100768/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-100768/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-100768/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-100768/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-100768.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-100768 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-100768 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
   },
   {
    "art": "R-106810",
@@ -3949,6 +4786,62 @@
    }
   },
   {
+   "art": "R-138519",
+   "category": "Кольца",
+   "subfolder": "КОЛЬЦА БЕЛОЕ ЗОЛОТО",
+   "name": "Овал параиба павё-шинка",
+   "tagline": "Кольцо с выращенным параиба-турмалином овальной огранки и дорожкой павё в белом золоте.",
+   "specs": {
+    "Тип изделия": "Кольцо-солитер",
+    "Металл": "Белое золото · 585 / 750",
+    "Вес золота": "~3.0 г",
+    "Основной камень": "Параиба-турмалин лаб",
+    "Огранка центра": "Овал (Oval)",
+    "Боковые камни": "павё по шинке",
+    "Общий доп. вес": "~0.2 ct",
+    "Качество": "VS–SI / лаб",
+    "Тип закрепки": "Крапаны + павё",
+    "Стиль": "Лаб-камни · солитер",
+    "Сертификат": "IGI"
+   },
+   "description": "Кольцо с выращенным параиба-турмалином неоново-бирюзового цвета овальной огранки и бриллиантовой дорожкой павё по шинке из белого золота. Яркий сине-зелёный камень — акцент всего гарнитура. Все камни — выращенные в лаборатории (лаб-граун), с сертификатом IGI и письменной гарантией. По оптике, твёрдости и составу камень идентичен природному, цена — заметно доступнее. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).",
+   "prices": [
+    {
+     "Золото 585": "$1 560",
+     "Золото 750": "$1 850"
+    }
+   ],
+   "price_note": "Цена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.",
+   "files": {
+    "photos": [
+     "R-138519-1.jpg",
+     "R-138519-1-2.jpg",
+     "R-138519-1-3.jpg",
+     "R-138519-1-4.jpg"
+    ],
+    "video": "R-138519-1.mp4",
+    "card_short": "R-138519-1.pdf",
+    "card_long": "R-138519-1-описание.pdf"
+   },
+   "reply_short": "R-138519 — Овал параиба павё-шинка\nМеталл: Белое золото · 585 / 750\nЗолото 585 — $1 560 · Золото 750 — $1 850\nВыращенные бриллианты, сертификат IGI · рассрочка 0% MBANK / ZERO\nЦена может измениться в зависимости от размера кольца.\nХотите подробную карточку с характеристиками?\n(Варианты этой модели: R-138519-1, R-138519-2)",
+   "reply_long": "R-138519 — Овал параиба павё-шинка\nКольцо с выращенным параиба-турмалином овальной огранки и дорожкой павё в белом золоте.\n\nТип изделия: Кольцо-солитер\nМеталл: Белое золото · 585 / 750\nВес золота: ~3.0 г\nОсновной камень: Параиба-турмалин лаб\nОгранка центра: Овал (Oval)\nБоковые камни: павё по шинке\nОбщий доп. вес: ~0.2 ct\nКачество: VS–SI / лаб\nТип закрепки: Крапаны + павё\nСтиль: Лаб-камни · солитер\nСертификат: IGI\n\nКольцо с выращенным параиба-турмалином неоново-бирюзового цвета овальной огранки и бриллиантовой дорожкой павё по шинке из белого золота. Яркий сине-зелёный камень — акцент всего гарнитура. Все камни — выращенные в лаборатории (лаб-граун), с сертификатом IGI и письменной гарантией. По оптике, твёрдости и составу камень идентичен природному, цена — заметно доступнее. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).\n\nЦены:\nЗолото 585 — $1 560 · Золото 750 — $1 850\n\nЦена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.\n\nКаталог с ценами: https://serene-cucurucho-853f94.netlify.app\nВесь ассортимент (около 480 изделий): https://alma-do-mar.com/magazin\nНапишите, что понравилось — подберём размер и пришлём фото/видео 🤍\nWhatsApp: https://wa.me/996550339966",
+   "media": {
+    "site_art": "R-138519",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-138519/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-138519/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-138519/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-138519/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-138519.mp4",
+    "same_as_base": false
+   },
+   "variants": [
+    "R-138519-1",
+    "R-138519-2"
+   ]
+  },
+  {
    "art": "R-138519-1",
    "category": "Кольца",
    "subfolder": "КОЛЬЦА БЕЛОЕ ЗОЛОТО",
@@ -4072,6 +4965,56 @@
     "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-142045.mp4",
     "same_as_base": false
    }
+  },
+  {
+   "art": "R-142620",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-142620",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-142620/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-142620/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-142620/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-142620/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-142620.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-142620 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-142620 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
+   "art": "R-145577",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-145577",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-145577/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-145577/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-145577/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-145577/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-145577.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-145577 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-145577 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
   },
   {
    "art": "R-149602",
@@ -5055,6 +5998,62 @@
    }
   },
   {
+   "art": "R-178176",
+   "category": "Кольца",
+   "subfolder": "КОЛЬЦА ЖЁЛТОЕ ЗОЛОТО",
+   "name": "Три камня овал + груши",
+   "tagline": "Помолвочное кольцо «три камня»: овальный бриллиант и боковые груши, дорожка павё, жёлтое золото.",
+   "specs": {
+    "Тип изделия": "Кольцо",
+    "Металл": "Жёлтое золото · 585 / 750",
+    "Вес золота": "~3.2 г",
+    "Основной камень": "Бриллиант (белый)",
+    "Огранка центра": "Овал (Oval)",
+    "Боковые камни": "2 груши ~0.5 ct + павё по шинке",
+    "Общий доп. вес": "~1.0 ct",
+    "Качество": "VS–SI / G–H",
+    "Тип закрепки": "Крапаны + павё",
+    "Стиль": "Три камня / дорожка",
+    "Сертификат": "IGI · письменная гарантия"
+   },
+   "description": "Помолвочное кольцо-трилогия из жёлтого золота: овальный бриллиант в центре, обрамлённый двумя бриллиантами огранки груша, и бриллиантовая дорожка павё по шинке. Классический символ «прошлое-настоящее-будущее». На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).",
+   "prices": [
+    {
+     "Золото 585": "$1 980",
+     "Золото 750": "$2 280"
+    }
+   ],
+   "price_note": "Цена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.",
+   "files": {
+    "photos": [
+     "R-178176-1.jpg",
+     "R-178176-1-2.jpg",
+     "R-178176-1-3.jpg",
+     "R-178176-1-4.jpg"
+    ],
+    "video": null,
+    "card_short": "R-178176-1.pdf",
+    "card_long": "R-178176-1-описание.pdf"
+   },
+   "reply_short": "R-178176 — Три камня овал + груши\nМеталл: Жёлтое золото · 585 / 750\nЗолото 585 — $1 980 · Золото 750 — $2 280\nВыращенные бриллианты, сертификат IGI · рассрочка 0% MBANK / ZERO\nЦена может измениться в зависимости от размера кольца.\nХотите подробную карточку с характеристиками?\n(Варианты этой модели: R-178176-1, R-178176-2)",
+   "reply_long": "R-178176 — Три камня овал + груши\nПомолвочное кольцо «три камня»: овальный бриллиант и боковые груши, дорожка павё, жёлтое золото.\n\nТип изделия: Кольцо\nМеталл: Жёлтое золото · 585 / 750\nВес золота: ~3.2 г\nОсновной камень: Бриллиант (белый)\nОгранка центра: Овал (Oval)\nБоковые камни: 2 груши ~0.5 ct + павё по шинке\nОбщий доп. вес: ~1.0 ct\nКачество: VS–SI / G–H\nТип закрепки: Крапаны + павё\nСтиль: Три камня / дорожка\nСертификат: IGI · письменная гарантия\n\nПомолвочное кольцо-трилогия из жёлтого золота: овальный бриллиант в центре, обрамлённый двумя бриллиантами огранки груша, и бриллиантовая дорожка павё по шинке. Классический символ «прошлое-настоящее-будущее». На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).\n\nЦены:\nЗолото 585 — $1 980 · Золото 750 — $2 280\n\nЦена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.\n\nКаталог с ценами: https://serene-cucurucho-853f94.netlify.app\nВесь ассортимент (около 480 изделий): https://alma-do-mar.com/magazin\nНапишите, что понравилось — подберём размер и пришлём фото/видео 🤍\nWhatsApp: https://wa.me/996550339966",
+   "media": {
+    "site_art": "R-178176",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-178176/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-178176/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-178176/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-178176/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-178176.mp4",
+    "same_as_base": false
+   },
+   "variants": [
+    "R-178176-1",
+    "R-178176-2"
+   ]
+  },
+  {
    "art": "R-178176-1",
    "category": "Кольца",
    "subfolder": "КОЛЬЦА ЖЁЛТОЕ ЗОЛОТО",
@@ -5762,6 +6761,31 @@
     "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-210605.mp4",
     "same_as_base": false
    }
+  },
+  {
+   "art": "R-212805",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо-солитер «овал» с боковыми камнями",
+   "tagline": "Овальный солитер с боковыми грушами.",
+   "specs": {},
+   "description": "Овальный солитер с боковыми грушами.",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-212805",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-212805/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-212805/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-212805/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-212805/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-212805.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-212805 — Кольцо-солитер «овал» с боковыми камнями\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-212805 — Кольцо-солитер «овал» с боковыми камнями\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
   },
   {
    "art": "R-215073",
@@ -7245,6 +8269,89 @@
    }
   },
   {
+   "art": "R-290198",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-290198",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-290198/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-290198/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-290198/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-290198/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-290198.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-290198 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-290198 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
+   "art": "R-291036",
+   "category": "Кольца",
+   "subfolder": "КОЛЬЦА БЕЛОЕ ЗОЛОТО",
+   "name": "Три камня круглые",
+   "tagline": "Кольцо «три камня» с круглыми бриллиантами, белое золото.",
+   "specs": {
+    "Тип изделия": "Кольцо",
+    "Металл": "Белое золото · 585 / 750",
+    "Вес золота": "~3.0 г",
+    "Основной камень": "Бриллиант (белый)",
+    "Огранка центра": "Круглая (Round)",
+    "Боковые камни": "2 круглых боковых",
+    "Общий доп. вес": "~0.4 ct",
+    "Качество": "VS–SI / G–H",
+    "Тип закрепки": "Крапаны",
+    "Стиль": "Солитер / классика",
+    "Сертификат": "IGI · письменная гарантия"
+   },
+   "description": "Кольцо «три камня» (trilogy): круглый бриллиант в центре и два боковых круглых бриллианта на белом золоте. Символ «прошлое—настоящее—будущее». На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).",
+   "prices": [
+    {
+     "Золото 585": "$1 490",
+     "Золото 750": "$1 770"
+    }
+   ],
+   "price_note": "Цена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.",
+   "files": {
+    "photos": [
+     "R-291036-1.jpg",
+     "R-291036-1-2.jpg",
+     "R-291036-1-3.jpg",
+     "R-291036-1-4.jpg"
+    ],
+    "video": "R-291036-1.mp4",
+    "card_short": "R-291036-1.pdf",
+    "card_long": "R-291036-1-описание.pdf"
+   },
+   "reply_short": "R-291036 — Три камня круглые\nМеталл: Белое золото · 585 / 750\nЗолото 585 — $1 490 · Золото 750 — $1 770\nВыращенные бриллианты, сертификат IGI · рассрочка 0% MBANK / ZERO\nЦена может измениться в зависимости от размера кольца.\nХотите подробную карточку с характеристиками?\n(Варианты этой модели: R-291036-1, R-291036-2, R-291036-3, R-291036-4)",
+   "reply_long": "R-291036 — Три камня круглые\nКольцо «три камня» с круглыми бриллиантами, белое золото.\n\nТип изделия: Кольцо\nМеталл: Белое золото · 585 / 750\nВес золота: ~3.0 г\nОсновной камень: Бриллиант (белый)\nОгранка центра: Круглая (Round)\nБоковые камни: 2 круглых боковых\nОбщий доп. вес: ~0.4 ct\nКачество: VS–SI / G–H\nТип закрепки: Крапаны\nСтиль: Солитер / классика\nСертификат: IGI · письменная гарантия\n\nКольцо «три камня» (trilogy): круглый бриллиант в центре и два боковых круглых бриллианта на белом золоте. Символ «прошлое—настоящее—будущее». На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).\n\nЦены:\nЗолото 585 — $1 490 · Золото 750 — $1 770\n\nЦена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.\n\nКаталог с ценами: https://serene-cucurucho-853f94.netlify.app\nВесь ассортимент (около 480 изделий): https://alma-do-mar.com/magazin\nНапишите, что понравилось — подберём размер и пришлём фото/видео 🤍\nWhatsApp: https://wa.me/996550339966",
+   "media": {
+    "site_art": "R-291036",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-291036/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-291036/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-291036/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-291036/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-291036.mp4",
+    "same_as_base": false
+   },
+   "variants": [
+    "R-291036-1",
+    "R-291036-2",
+    "R-291036-3",
+    "R-291036-4"
+   ]
+  },
+  {
    "art": "R-291036-1",
    "category": "Кольца",
    "subfolder": "КОЛЬЦА БЕЛОЕ ЗОЛОТО",
@@ -7451,6 +8558,31 @@
     "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-291036.mp4",
     "same_as_base": true
    }
+  },
+  {
+   "art": "R-291937",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Оправа без центрального камня",
+   "tagline": "Полуоправа (semi-mount) под центральный камень.",
+   "specs": {},
+   "description": "Полуоправа (semi-mount) под центральный камень.",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-291937",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-291937/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-291937/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-291937/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-291937/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-291937.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-291937 — Оправа без центрального камня\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-291937 — Оправа без центрального камня\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
   },
   {
    "art": "R-292348",
@@ -7670,6 +8802,31 @@
     "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-296604.mp4",
     "same_as_base": false
    }
+  },
+  {
+   "art": "R-296893",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо-солитер round (разд. шинка)",
+   "tagline": "Круглый солитер на раздвоенной шинке.",
+   "specs": {},
+   "description": "Круглый солитер на раздвоенной шинке.",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-296893",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-296893/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-296893/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-296893/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-296893/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-296893.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-296893 — Кольцо-солитер round (разд. шинка)\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-296893 — Кольцо-солитер round (разд. шинка)\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
   },
   {
    "art": "R-297686",
@@ -8277,6 +9434,31 @@
    }
   },
   {
+   "art": "R-316417",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо-дорожка marquise",
+   "tagline": "Кольцо-вечность из маркизов.",
+   "specs": {},
+   "description": "Кольцо-вечность из маркизов.",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-316417",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-316417/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-316417/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-316417/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-316417/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-316417.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-316417 — Кольцо-дорожка marquise\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-316417 — Кольцо-дорожка marquise\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
    "art": "R-320412",
    "category": "Кольца",
    "subfolder": "КОЛЬЦА БЕЛОЕ ЗОЛОТО",
@@ -8798,6 +9980,56 @@
    }
   },
   {
+   "art": "R-353371",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо-обручальное двухцветное",
+   "tagline": "Широкое кольцо в два цвета золота с паве.",
+   "specs": {},
+   "description": "Широкое кольцо в два цвета золота с паве.",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-353371",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-353371/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-353371/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-353371/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-353371/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-353371.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-353371 — Кольцо-обручальное двухцветное\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-353371 — Кольцо-обручальное двухцветное\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
+   "art": "R-355998",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-355998",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-355998/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-355998/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-355998/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-355998/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-355998.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-355998 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-355998 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
    "art": "R-357399",
    "category": "Кольца",
    "subfolder": "КОЛЬЦА БЕЛОЕ ЗОЛОТО",
@@ -9130,6 +10362,31 @@
     "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-367570.mp4",
     "same_as_base": false
    }
+  },
+  {
+   "art": "R-367741",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо-солитер «овал»",
+   "tagline": "Овальный солитер на гладкой шинке.",
+   "specs": {},
+   "description": "Овальный солитер на гладкой шинке.",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-367741",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-367741/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-367741/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-367741/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-367741/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-367741.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-367741 — Кольцо-солитер «овал»\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-367741 — Кольцо-солитер «овал»\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
   },
   {
    "art": "R-370812",
@@ -9685,6 +10942,56 @@
    }
   },
   {
+   "art": "R-396824",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо-печатка в паве",
+   "tagline": "Мужская печатка в паве с красным акцентом.",
+   "specs": {},
+   "description": "Мужская печатка в паве с красным акцентом.",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-396824",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-396824/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-396824/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-396824/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-396824/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-396824.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-396824 — Кольцо-печатка в паве\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-396824 — Кольцо-печатка в паве\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
+   "art": "R-400217",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо-обручальное широкое",
+   "tagline": "Широкое кольцо в два ряда.",
+   "specs": {},
+   "description": "Широкое кольцо в два ряда.",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-400217",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-400217/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-400217/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-400217/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-400217/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-400217.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-400217 — Кольцо-обручальное широкое\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-400217 — Кольцо-обручальное широкое\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
    "art": "R-406427",
    "category": "Кольца",
    "subfolder": "КОЛЬЦА ЖЁЛТОЕ ЗОЛОТО",
@@ -9735,6 +11042,31 @@
     "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-406427.mp4",
     "same_as_base": false
    }
+  },
+  {
+   "art": "R-410210",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-410210",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-410210/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-410210/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-410210/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-410210/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-410210.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-410210 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-410210 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
   },
   {
    "art": "R-418126",
@@ -9975,6 +11307,62 @@
    "reply_short": "R-426379 — Кольцо круглое оправа-цветок + паве\nМеталл: Жёлтое золото · 585 / 750\n1 ct: 585 — $1 520 · 750 — $1 830\n2 ct: 585 — $1 850 · 750 — $2 150\n3 ct: 585 — $2 170 · 750 — $2 480\n4 ct: 585 — $2 490 · 750 — $2 800\n5 ct: 585 — $2 820 · 750 — $3 130\nВыращенные бриллианты, сертификат IGI · рассрочка 0% MBANK / ZERO\nЦена может измениться в зависимости от размера кольца.\nХотите подробную карточку с характеристиками?",
    "reply_long": "R-426379 — Кольцо круглое оправа-цветок + паве\nКруглый бриллиант в оправе-цветок (лотос) на паве-шинке из жёлтого золота — романтичный солитер.\n\nТип изделия: Кольцо\nМеталл: Жёлтое золото · 585 / 750\nВес золота: ~3.2 г\nОсновной камень: Бриллиант\nОгранка центра: Круглая (Round)\nБоковые камни: паве ~0.4 ct\nОбщий доп. вес: ~0.4 ct\nКачество: VS–SI / G–H\nТип закрепки: Оправа-цветок (крапаны-лепестки) + паве\nСтиль: Floral / романтическая\nСертификат: IGI · письменная гарантия\n\nРомантичный солитер с центральным круглым бриллиантом в фигурной оправе-цветок (лотос/лютик): крапаны образуют лепестки вокруг камня. Паве-дорожка по шинке жёлтого золота добавляет сияния. Нежный «природный» дизайн для тех, кто любит цветочные мотивы.\n\nЦены:\n1 ct: 585 — $1 520 · 750 — $1 830\n2 ct: 585 — $1 850 · 750 — $2 150\n3 ct: 585 — $2 170 · 750 — $2 480\n4 ct: 585 — $2 490 · 750 — $2 800\n5 ct: 585 — $2 820 · 750 — $3 130\n\nЦена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.\n\nКаталог с ценами: https://serene-cucurucho-853f94.netlify.app\nВесь ассортимент (около 480 изделий): https://alma-do-mar.com/magazin\nНапишите, что понравилось — подберём размер и пришлём фото/видео 🤍\nWhatsApp: https://wa.me/996550339966",
    "media": null
+  },
+  {
+   "art": "R-426704",
+   "category": "Кольца",
+   "subfolder": "КОЛЬЦА ЖЁЛТОЕ ЗОЛОТО",
+   "name": "Три камня изумр. огранка",
+   "tagline": "Помолвочное кольцо «три камня»: бриллиант изумрудной огранки и боковые трапеции, ореол и павё, жёлтое золото.",
+   "specs": {
+    "Тип изделия": "Кольцо",
+    "Металл": "Жёлтое золото · 585 / 750",
+    "Вес золота": "~3.4 г",
+    "Основной камень": "Бриллиант (белый)",
+    "Огранка центра": "Изумрудная (Emerald)",
+    "Боковые камни": "2 трапеции ~0.5 ct + ореол/павё",
+    "Общий доп. вес": "~1.4 ct",
+    "Качество": "VS–SI / G–H",
+    "Тип закрепки": "Крапаны + павё",
+    "Стиль": "Три камня / дорожка",
+    "Сертификат": "IGI · письменная гарантия"
+   },
+   "description": "Помолвочное кольцо-трилогия из жёлтого золота: бриллиант изумрудной (ступенчатой) огранки в центре, боковые бриллианты-трапеции и бриллиантовый ореол с дорожками павё по шинке. Архитектурная геометрия и максимум блеска. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).",
+   "prices": [
+    {
+     "Золото 585": "$2 230",
+     "Золото 750": "$2 560"
+    }
+   ],
+   "price_note": "Цена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.",
+   "files": {
+    "photos": [
+     "R-426704-1.jpg",
+     "R-426704-1-2.jpg",
+     "R-426704-1-3.jpg",
+     "R-426704-1-4.jpg"
+    ],
+    "video": null,
+    "card_short": "R-426704-1.pdf",
+    "card_long": "R-426704-1-описание.pdf"
+   },
+   "reply_short": "R-426704 — Три камня изумр. огранка\nМеталл: Жёлтое золото · 585 / 750\nЗолото 585 — $2 230 · Золото 750 — $2 560\nВыращенные бриллианты, сертификат IGI · рассрочка 0% MBANK / ZERO\nЦена может измениться в зависимости от размера кольца.\nХотите подробную карточку с характеристиками?\n(Варианты этой модели: R-426704-1, R-426704-2)",
+   "reply_long": "R-426704 — Три камня изумр. огранка\nПомолвочное кольцо «три камня»: бриллиант изумрудной огранки и боковые трапеции, ореол и павё, жёлтое золото.\n\nТип изделия: Кольцо\nМеталл: Жёлтое золото · 585 / 750\nВес золота: ~3.4 г\nОсновной камень: Бриллиант (белый)\nОгранка центра: Изумрудная (Emerald)\nБоковые камни: 2 трапеции ~0.5 ct + ореол/павё\nОбщий доп. вес: ~1.4 ct\nКачество: VS–SI / G–H\nТип закрепки: Крапаны + павё\nСтиль: Три камня / дорожка\nСертификат: IGI · письменная гарантия\n\nПомолвочное кольцо-трилогия из жёлтого золота: бриллиант изумрудной (ступенчатой) огранки в центре, боковые бриллианты-трапеции и бриллиантовый ореол с дорожками павё по шинке. Архитектурная геометрия и максимум блеска. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).\n\nЦены:\nЗолото 585 — $2 230 · Золото 750 — $2 560\n\nЦена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.\n\nКаталог с ценами: https://serene-cucurucho-853f94.netlify.app\nВесь ассортимент (около 480 изделий): https://alma-do-mar.com/magazin\nНапишите, что понравилось — подберём размер и пришлём фото/видео 🤍\nWhatsApp: https://wa.me/996550339966",
+   "media": {
+    "site_art": "R-426704",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-426704/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-426704/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-426704/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-426704/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-426704.mp4",
+    "same_as_base": false
+   },
+   "variants": [
+    "R-426704-1",
+    "R-426704-2"
+   ]
   },
   {
    "art": "R-426704-1",
@@ -10696,6 +12084,62 @@
    }
   },
   {
+   "art": "R-442854",
+   "category": "Кольца",
+   "subfolder": "КОЛЬЦА ЖЁЛТОЕ ЗОЛОТО",
+   "name": "Солитер овал",
+   "tagline": "Кольцо-солитер с бриллиантом овальной огранки, жёлтое золото.",
+   "specs": {
+    "Тип изделия": "Кольцо",
+    "Металл": "Жёлтое золото · 585 / 750",
+    "Вес золота": "~3.0 г",
+    "Основной камень": "Бриллиант (белый)",
+    "Огранка центра": "Овал (Oval)",
+    "Боковые камни": "нет",
+    "Общий доп. вес": "—",
+    "Качество": "VS–SI / G–H",
+    "Тип закрепки": "Крапаны",
+    "Стиль": "Солитер / классика",
+    "Сертификат": "IGI · письменная гарантия"
+   },
+   "description": "Классический солитер с бриллиантом овальной огранки на гладкой шинке из жёлтого золота. Вытянутый овал изящно смотрится на пальце. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).",
+   "prices": [
+    {
+     "Золото 585": "$1 670",
+     "Золото 750": "$1 960"
+    }
+   ],
+   "price_note": "Цена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.",
+   "files": {
+    "photos": [
+     "R-442854-1.jpg",
+     "R-442854-1-2.jpg",
+     "R-442854-1-3.jpg",
+     "R-442854-1-4.jpg"
+    ],
+    "video": "R-442854-1.mp4",
+    "card_short": "R-442854-1.pdf",
+    "card_long": "R-442854-1-описание.pdf"
+   },
+   "reply_short": "R-442854 — Солитер овал\nМеталл: Жёлтое золото · 585 / 750\nЗолото 585 — $1 670 · Золото 750 — $1 960\nВыращенные бриллианты, сертификат IGI · рассрочка 0% MBANK / ZERO\nЦена может измениться в зависимости от размера кольца.\nХотите подробную карточку с характеристиками?\n(Варианты этой модели: R-442854-1, R-442854-2)",
+   "reply_long": "R-442854 — Солитер овал\nКольцо-солитер с бриллиантом овальной огранки, жёлтое золото.\n\nТип изделия: Кольцо\nМеталл: Жёлтое золото · 585 / 750\nВес золота: ~3.0 г\nОсновной камень: Бриллиант (белый)\nОгранка центра: Овал (Oval)\nБоковые камни: нет\nОбщий доп. вес: —\nКачество: VS–SI / G–H\nТип закрепки: Крапаны\nСтиль: Солитер / классика\nСертификат: IGI · письменная гарантия\n\nКлассический солитер с бриллиантом овальной огранки на гладкой шинке из жёлтого золота. Вытянутый овал изящно смотрится на пальце. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).\n\nЦены:\nЗолото 585 — $1 670 · Золото 750 — $1 960\n\nЦена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.\n\nКаталог с ценами: https://serene-cucurucho-853f94.netlify.app\nВесь ассортимент (около 480 изделий): https://alma-do-mar.com/magazin\nНапишите, что понравилось — подберём размер и пришлём фото/видео 🤍\nWhatsApp: https://wa.me/996550339966",
+   "media": {
+    "site_art": "R-442854",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-442854/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-442854/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-442854/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-442854/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-442854.mp4",
+    "same_as_base": false
+   },
+   "variants": [
+    "R-442854-1",
+    "R-442854-2"
+   ]
+  },
+  {
    "art": "R-442854-1",
    "category": "Кольца",
    "subfolder": "КОЛЬЦА ЖЁЛТОЕ ЗОЛОТО",
@@ -11317,6 +12761,56 @@
    }
   },
   {
+   "art": "R-460374",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-460374",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-460374/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-460374/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-460374/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-460374/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-460374.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-460374 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-460374 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
+   "art": "R-461474",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-461474",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-461474/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-461474/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-461474/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-461474/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-461474.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-461474 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-461474 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
    "art": "R-461481",
    "category": "Кольца",
    "subfolder": "КОЛЬЦА БЕЛОЕ ЗОЛОТО",
@@ -11430,6 +12924,64 @@
    "reply_short": "R-466284 — Кольцо-солитер с радиантом\nМеталл: Жёлтое золото · 585 / 750\n1 ct: 585 — $1 360 · 750 — $1 650\n2 ct: 585 — $1 690 · 750 — $1 980\n3 ct: 585 — $2 020 · 750 — $2 310\n4 ct: 585 — $2 350 · 750 — $2 640\n5 ct: 585 — $2 680 · 750 — $2 970\nВыращенные бриллианты, сертификат IGI · рассрочка 0% MBANK / ZERO\nЦена может измениться в зависимости от размера кольца.\nХотите подробную карточку с характеристиками?",
    "reply_long": "R-466284 — Кольцо-солитер с радиантом\nУдлинённый бриллиант огранки радиант в четырёх крапанах на тонкой гладкой шинке из жёлтого золота — минималистичный солитер.\n\nТип изделия: Кольцо\nМеталл: Жёлтое золото · 585 / 750\nВес золота: ~3.0 г\nОсновной камень: Бриллиант\nОгранка центра: Радиант (Radiant)\nБоковые камни: нет\nОбщий доп. вес: —\nКачество: VS–SI / G–H\nТип закрепки: Крапановая (4 крапана)\nСтиль: Классика / минимализм\nСертификат: IGI · письменная гарантия\n\nМинималистичный солитер с центральным удлинённым бриллиантом огранки радиант в четырёх крапанах на тонкой гладкой шинке жёлтого золота. Вытянутая форма визуально удлиняет палец, а чистая оправа подчёркивает грани камня. Спокойная элегантность вне времени.\n\nЦены:\n1 ct: 585 — $1 360 · 750 — $1 650\n2 ct: 585 — $1 690 · 750 — $1 980\n3 ct: 585 — $2 020 · 750 — $2 310\n4 ct: 585 — $2 350 · 750 — $2 640\n5 ct: 585 — $2 680 · 750 — $2 970\n\nЦена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.\n\nКаталог с ценами: https://serene-cucurucho-853f94.netlify.app\nВесь ассортимент (около 480 изделий): https://alma-do-mar.com/magazin\nНапишите, что понравилось — подберём размер и пришлём фото/видео 🤍\nWhatsApp: https://wa.me/996550339966",
    "media": null
+  },
+  {
+   "art": "R-467784",
+   "category": "Кольца",
+   "subfolder": "КОЛЬЦА ЖЁЛТОЕ ЗОЛОТО",
+   "name": "Солитер эмеральд безель",
+   "tagline": "Кольцо-солитер с бриллиантом изумрудной огранки в глухой оправе, жёлтое золото.",
+   "specs": {
+    "Тип изделия": "Кольцо-солитер",
+    "Металл": "Жёлтое золото · 585 / 750",
+    "Вес золота": "~3.5 г",
+    "Основной камень": "Бриллиант (белый)",
+    "Огранка центра": "Изумрудная (Emerald)",
+    "Боковые камни": "нет",
+    "Общий доп. вес": "—",
+    "Качество": "VS–SI / лаб",
+    "Тип закрепки": "Глухая (безель)",
+    "Стиль": "Солитер / безель",
+    "Сертификат": "IGI"
+   },
+   "description": "Строгое кольцо-солитер с бриллиантом изумрудной (ступенчатой) огранки в глухой оправе-безеле из жёлтого золота. Чистые линии и современный минимализм. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).",
+   "prices": [
+    {
+     "Золото 585": "$1 860",
+     "Золото 750": "$2 200"
+    }
+   ],
+   "price_note": "Цена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.",
+   "files": {
+    "photos": [
+     "R-467784-1.jpg",
+     "R-467784-1-2.jpg",
+     "R-467784-1-3.jpg",
+     "R-467784-1-4.jpg"
+    ],
+    "video": "R-467784-1.mp4",
+    "card_short": "R-467784-1.pdf",
+    "card_long": "R-467784-1-описание.pdf"
+   },
+   "reply_short": "R-467784 — Солитер эмеральд безель\nМеталл: Жёлтое золото · 585 / 750\nЗолото 585 — $1 860 · Золото 750 — $2 200\nВыращенные бриллианты, сертификат IGI · рассрочка 0% MBANK / ZERO\nЦена может измениться в зависимости от размера кольца.\nХотите подробную карточку с характеристиками?\n(Варианты этой модели: R-467784-1, R-467784-2, R-467784-3, R-467784-4)",
+   "reply_long": "R-467784 — Солитер эмеральд безель\nКольцо-солитер с бриллиантом изумрудной огранки в глухой оправе, жёлтое золото.\n\nТип изделия: Кольцо-солитер\nМеталл: Жёлтое золото · 585 / 750\nВес золота: ~3.5 г\nОсновной камень: Бриллиант (белый)\nОгранка центра: Изумрудная (Emerald)\nБоковые камни: нет\nОбщий доп. вес: —\nКачество: VS–SI / лаб\nТип закрепки: Глухая (безель)\nСтиль: Солитер / безель\nСертификат: IGI\n\nСтрогое кольцо-солитер с бриллиантом изумрудной (ступенчатой) огранки в глухой оправе-безеле из жёлтого золота. Чистые линии и современный минимализм. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).\n\nЦены:\nЗолото 585 — $1 860 · Золото 750 — $2 200\n\nЦена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.\n\nКаталог с ценами: https://serene-cucurucho-853f94.netlify.app\nВесь ассортимент (около 480 изделий): https://alma-do-mar.com/magazin\nНапишите, что понравилось — подберём размер и пришлём фото/видео 🤍\nWhatsApp: https://wa.me/996550339966",
+   "media": {
+    "site_art": "R-467784",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-467784/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-467784/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-467784/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-467784/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-467784.mp4",
+    "same_as_base": false
+   },
+   "variants": [
+    "R-467784-1",
+    "R-467784-2",
+    "R-467784-3",
+    "R-467784-4"
+   ]
   },
   {
    "art": "R-467784-1",
@@ -11711,6 +13263,31 @@
     "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-469533.mp4",
     "same_as_base": false
    }
+  },
+  {
+   "art": "R-470260",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-470260",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-470260/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-470260/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-470260/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-470260/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-470260.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-470260 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-470260 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
   },
   {
    "art": "R-472084",
@@ -12564,6 +14141,31 @@
    }
   },
   {
+   "art": "R-492310",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-492310",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-492310/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-492310/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-492310/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-492310/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-492310.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-492310 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-492310 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
    "art": "R-496558",
    "category": "Кольца",
    "subfolder": "КОЛЬЦА БЕЛОЕ ЗОЛОТО",
@@ -12908,6 +14510,31 @@
    }
   },
   {
+   "art": "R-503301",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-503301",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-503301/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-503301/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-503301/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-503301/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-503301.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-503301 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-503301 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
    "art": "R-504771",
    "category": "Кольца",
    "subfolder": "КОЛЬЦА ЖЁЛТОЕ ЗОЛОТО",
@@ -12981,6 +14608,31 @@
    }
   },
   {
+   "art": "R-505957",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо-обручальное широкое с паве",
+   "tagline": "Широкое кольцо в паве.",
+   "specs": {},
+   "description": "Широкое кольцо в паве.",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-505957",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-505957/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-505957/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-505957/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-505957/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-505957.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-505957 — Кольцо-обручальное широкое с паве\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-505957 — Кольцо-обручальное широкое с паве\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
    "art": "R-510608",
    "category": "Кольца",
    "subfolder": "КОЛЬЦА ЖЁЛТОЕ ЗОЛОТО",
@@ -13031,6 +14683,31 @@
     "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-510608.mp4",
     "same_as_base": false
    }
+  },
+  {
+   "art": "R-511212",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Оправа без центрального камня",
+   "tagline": "Полуоправа под центральный камень, паве.",
+   "specs": {},
+   "description": "Полуоправа под центральный камень, паве.",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-511212",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-511212/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-511212/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-511212/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-511212/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-511212.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-511212 — Оправа без центрального камня\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-511212 — Оправа без центрального камня\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
   },
   {
    "art": "R-511235",
@@ -13104,6 +14781,31 @@
     "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-511235.mp4",
     "same_as_base": false
    }
+  },
+  {
+   "art": "R-511720",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-511720",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-511720/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-511720/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-511720/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-511720/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-511720.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-511720 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-511720 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
   },
   {
    "art": "R-514138",
@@ -13388,6 +15090,62 @@
    }
   },
   {
+   "art": "R-521069",
+   "category": "Кольца",
+   "subfolder": "КОЛЬЦА БЕЛОЕ ЗОЛОТО",
+   "name": "Солитер сердце",
+   "tagline": "Кольцо-солитер с бриллиантом огранки сердце, белое золото.",
+   "specs": {
+    "Тип изделия": "Кольцо",
+    "Металл": "Белое золото · 585 / 750",
+    "Вес золота": "~3.0 г",
+    "Основной камень": "Бриллиант (белый)",
+    "Огранка центра": "Сердце (Heart)",
+    "Боковые камни": "нет",
+    "Общий доп. вес": "—",
+    "Качество": "VS–SI / G–H",
+    "Тип закрепки": "Крапаны",
+    "Стиль": "Солитер / классика",
+    "Сертификат": "IGI · письменная гарантия"
+   },
+   "description": "Романтичный солитер с бриллиантом огранки сердце на гладкой шинке из белого золота. Символичная форма для особого подарка. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).",
+   "prices": [
+    {
+     "Золото 585": "$1 530",
+     "Золото 750": "$1 820"
+    }
+   ],
+   "price_note": "Цена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.",
+   "files": {
+    "photos": [
+     "R-521069-1.jpg",
+     "R-521069-1-2.jpg",
+     "R-521069-1-3.jpg",
+     "R-521069-1-4.jpg"
+    ],
+    "video": "R-521069-1.mp4",
+    "card_short": "R-521069-1.pdf",
+    "card_long": "R-521069-1-описание.pdf"
+   },
+   "reply_short": "R-521069 — Солитер сердце\nМеталл: Белое золото · 585 / 750\nЗолото 585 — $1 530 · Золото 750 — $1 820\nВыращенные бриллианты, сертификат IGI · рассрочка 0% MBANK / ZERO\nЦена может измениться в зависимости от размера кольца.\nХотите подробную карточку с характеристиками?\n(Варианты этой модели: R-521069-1, R-521069-2)",
+   "reply_long": "R-521069 — Солитер сердце\nКольцо-солитер с бриллиантом огранки сердце, белое золото.\n\nТип изделия: Кольцо\nМеталл: Белое золото · 585 / 750\nВес золота: ~3.0 г\nОсновной камень: Бриллиант (белый)\nОгранка центра: Сердце (Heart)\nБоковые камни: нет\nОбщий доп. вес: —\nКачество: VS–SI / G–H\nТип закрепки: Крапаны\nСтиль: Солитер / классика\nСертификат: IGI · письменная гарантия\n\nРомантичный солитер с бриллиантом огранки сердце на гладкой шинке из белого золота. Символичная форма для особого подарка. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).\n\nЦены:\nЗолото 585 — $1 530 · Золото 750 — $1 820\n\nЦена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.\n\nКаталог с ценами: https://serene-cucurucho-853f94.netlify.app\nВесь ассортимент (около 480 изделий): https://alma-do-mar.com/magazin\nНапишите, что понравилось — подберём размер и пришлём фото/видео 🤍\nWhatsApp: https://wa.me/996550339966",
+   "media": {
+    "site_art": "R-521069",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-521069/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-521069/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-521069/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-521069/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-521069.mp4",
+    "same_as_base": false
+   },
+   "variants": [
+    "R-521069-1",
+    "R-521069-2"
+   ]
+  },
+  {
    "art": "R-521069-1",
    "category": "Кольца",
    "subfolder": "КОЛЬЦА БЕЛОЕ ЗОЛОТО",
@@ -13615,6 +15373,31 @@
     "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-524201.mp4",
     "same_as_base": false
    }
+  },
+  {
+   "art": "R-533033",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо-печатка в паве",
+   "tagline": "Мужская печатка в паве с красным акцентом.",
+   "specs": {},
+   "description": "Мужская печатка в паве с красным акцентом.",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-533033",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-533033/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-533033/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-533033/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-533033/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-533033.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-533033 — Кольцо-печатка в паве\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-533033 — Кольцо-печатка в паве\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
   },
   {
    "art": "R-533453",
@@ -15189,6 +16972,31 @@
    }
   },
   {
+   "art": "R-583544",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-583544",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-583544/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-583544/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-583544/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-583544/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-583544.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-583544 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-583544 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
    "art": "R-585526",
    "category": "Кольца",
    "subfolder": "КОЛЬЦА БЕЛОЕ ЗОЛОТО",
@@ -15698,6 +17506,62 @@
     "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-596715.mp4",
     "same_as_base": false
    }
+  },
+  {
+   "art": "R-600581",
+   "category": "Кольца",
+   "subfolder": "КОЛЬЦА БЕЛОЕ ЗОЛОТО",
+   "name": "Кушон павё-шинка",
+   "tagline": "Кольцо-солитер с бриллиантом огранки кушон и дорожкой павё, белое золото.",
+   "specs": {
+    "Тип изделия": "Кольцо",
+    "Металл": "Белое золото · 585 / 750",
+    "Вес золота": "~3.0 г",
+    "Основной камень": "Бриллиант (белый)",
+    "Огранка центра": "Кушон (Cushion)",
+    "Боковые камни": "павё по шинке",
+    "Общий доп. вес": "~0.3 ct",
+    "Качество": "VS–SI / G–H",
+    "Тип закрепки": "Крапаны + павё",
+    "Стиль": "Солитер / классика",
+    "Сертификат": "IGI · письменная гарантия"
+   },
+   "description": "Кольцо с бриллиантом мягкой огранки кушон и бриллиантовой дорожкой павё по шинке из белого золота. Тёплая подушкообразная форма и максимум искры. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).",
+   "prices": [
+    {
+     "Золото 585": "$1 600",
+     "Золото 750": "$1 890"
+    }
+   ],
+   "price_note": "Цена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.",
+   "files": {
+    "photos": [
+     "R-600581-1.jpg",
+     "R-600581-1-2.jpg",
+     "R-600581-1-3.jpg",
+     "R-600581-1-4.jpg"
+    ],
+    "video": "R-600581-1.mp4",
+    "card_short": "R-600581-1.pdf",
+    "card_long": "R-600581-1-описание.pdf"
+   },
+   "reply_short": "R-600581 — Кушон павё-шинка\nМеталл: Белое золото · 585 / 750\nЗолото 585 — $1 600 · Золото 750 — $1 890\nВыращенные бриллианты, сертификат IGI · рассрочка 0% MBANK / ZERO\nЦена может измениться в зависимости от размера кольца.\nХотите подробную карточку с характеристиками?\n(Варианты этой модели: R-600581-1, R-600581-2)",
+   "reply_long": "R-600581 — Кушон павё-шинка\nКольцо-солитер с бриллиантом огранки кушон и дорожкой павё, белое золото.\n\nТип изделия: Кольцо\nМеталл: Белое золото · 585 / 750\nВес золота: ~3.0 г\nОсновной камень: Бриллиант (белый)\nОгранка центра: Кушон (Cushion)\nБоковые камни: павё по шинке\nОбщий доп. вес: ~0.3 ct\nКачество: VS–SI / G–H\nТип закрепки: Крапаны + павё\nСтиль: Солитер / классика\nСертификат: IGI · письменная гарантия\n\nКольцо с бриллиантом мягкой огранки кушон и бриллиантовой дорожкой павё по шинке из белого золота. Тёплая подушкообразная форма и максимум искры. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).\n\nЦены:\nЗолото 585 — $1 600 · Золото 750 — $1 890\n\nЦена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.\n\nКаталог с ценами: https://serene-cucurucho-853f94.netlify.app\nВесь ассортимент (около 480 изделий): https://alma-do-mar.com/magazin\nНапишите, что понравилось — подберём размер и пришлём фото/видео 🤍\nWhatsApp: https://wa.me/996550339966",
+   "media": {
+    "site_art": "R-600581",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-600581/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-600581/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-600581/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-600581/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-600581.mp4",
+    "same_as_base": false
+   },
+   "variants": [
+    "R-600581-1",
+    "R-600581-2"
+   ]
   },
   {
    "art": "R-600581-1",
@@ -16472,6 +18336,31 @@
    }
   },
   {
+   "art": "R-629718",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-629718",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-629718/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-629718/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-629718/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-629718/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-629718.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-629718 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-629718 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
    "art": "R-633687",
    "category": "Кольца",
    "subfolder": "КОЛЬЦА ЖЁЛТОЕ ЗОЛОТО",
@@ -17213,6 +19102,31 @@
    }
   },
   {
+   "art": "R-654394",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо-солитер «груша» с паве",
+   "tagline": "Грушевидный солитер с паве.",
+   "specs": {},
+   "description": "Грушевидный солитер с паве.",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-654394",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-654394/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-654394/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-654394/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-654394/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-654394.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-654394 — Кольцо-солитер «груша» с паве\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-654394 — Кольцо-солитер «груша» с паве\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
    "art": "R-656421",
    "category": "Кольца",
    "subfolder": "КОЛЬЦА ЖЁЛТОЕ ЗОЛОТО",
@@ -17806,6 +19720,31 @@
    }
   },
   {
+   "art": "R-693190",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-693190",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-693190/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-693190/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-693190/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-693190/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-693190.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-693190 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-693190 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
    "art": "R-696413",
    "category": "Кольца",
    "subfolder": "КОЛЬЦА ЖЁЛТОЕ ЗОЛОТО",
@@ -18117,6 +20056,31 @@
     "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-716230.mp4",
     "same_as_base": false
    }
+  },
+  {
+   "art": "R-716514",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-716514",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-716514/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-716514/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-716514/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-716514/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-716514.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-716514 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-716514 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
   },
   {
    "art": "R-719962",
@@ -18670,6 +20634,31 @@
     "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-733022.mp4",
     "same_as_base": false
    }
+  },
+  {
+   "art": "R-733043",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-733043",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-733043/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-733043/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-733043/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-733043/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-733043.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-733043 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-733043 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
   },
   {
    "art": "R-735132",
@@ -19590,6 +21579,31 @@
    }
   },
   {
+   "art": "R-770187",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-770187",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-770187/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-770187/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-770187/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-770187/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-770187.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-770187 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-770187 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
    "art": "R-784153",
    "category": "Кольца",
    "subfolder": "КОЛЬЦА ЖЁЛТОЕ ЗОЛОТО",
@@ -19903,6 +21917,62 @@
    }
   },
   {
+   "art": "R-796147",
+   "category": "Кольца",
+   "subfolder": "КОЛЬЦА ЖЁЛТОЕ ЗОЛОТО",
+   "name": "Солитер круглый",
+   "tagline": "Классическое кольцо-солитер с круглым бриллиантом на гладкой шинке, жёлтое золото.",
+   "specs": {
+    "Тип изделия": "Кольцо-солитер",
+    "Металл": "Жёлтое золото · 585 / 750",
+    "Вес золота": "~3.0 г",
+    "Основной камень": "Бриллиант (белый)",
+    "Огранка центра": "Круглая (Round)",
+    "Боковые камни": "нет",
+    "Общий доп. вес": "—",
+    "Качество": "VS–SI / G–H",
+    "Тип закрепки": "Крапаны (6)",
+    "Стиль": "Солитер / классика",
+    "Сертификат": "IGI"
+   },
+   "description": "Классическое помолвочное кольцо-солитер с круглым бриллиантом в шести крапанах на гладкой шинке из жёлтого золота. Вечная классика. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).",
+   "prices": [
+    {
+     "Золото 585": "$1 520",
+     "Золото 750": "$1 810"
+    }
+   ],
+   "price_note": "Цена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.",
+   "files": {
+    "photos": [
+     "R-796147-1.jpg",
+     "R-796147-1-2.jpg",
+     "R-796147-1-3.jpg",
+     "R-796147-1-4.jpg"
+    ],
+    "video": "R-796147-1.mp4",
+    "card_short": "R-796147-1.pdf",
+    "card_long": "R-796147-1-описание.pdf"
+   },
+   "reply_short": "R-796147 — Солитер круглый\nМеталл: Жёлтое золото · 585 / 750\nЗолото 585 — $1 520 · Золото 750 — $1 810\nВыращенные бриллианты, сертификат IGI · рассрочка 0% MBANK / ZERO\nЦена может измениться в зависимости от размера кольца.\nХотите подробную карточку с характеристиками?\n(Варианты этой модели: R-796147-1, R-796147-2)",
+   "reply_long": "R-796147 — Солитер круглый\nКлассическое кольцо-солитер с круглым бриллиантом на гладкой шинке, жёлтое золото.\n\nТип изделия: Кольцо-солитер\nМеталл: Жёлтое золото · 585 / 750\nВес золота: ~3.0 г\nОсновной камень: Бриллиант (белый)\nОгранка центра: Круглая (Round)\nБоковые камни: нет\nОбщий доп. вес: —\nКачество: VS–SI / G–H\nТип закрепки: Крапаны (6)\nСтиль: Солитер / классика\nСертификат: IGI\n\nКлассическое помолвочное кольцо-солитер с круглым бриллиантом в шести крапанах на гладкой шинке из жёлтого золота. Вечная классика. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).\n\nЦены:\nЗолото 585 — $1 520 · Золото 750 — $1 810\n\nЦена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.\n\nКаталог с ценами: https://serene-cucurucho-853f94.netlify.app\nВесь ассортимент (около 480 изделий): https://alma-do-mar.com/magazin\nНапишите, что понравилось — подберём размер и пришлём фото/видео 🤍\nWhatsApp: https://wa.me/996550339966",
+   "media": {
+    "site_art": "R-796147",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-796147/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-796147/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-796147/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-796147/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-796147.mp4",
+    "same_as_base": false
+   },
+   "variants": [
+    "R-796147-1",
+    "R-796147-2"
+   ]
+  },
+  {
    "art": "R-796147-1",
    "category": "Кольца",
    "subfolder": "КОЛЬЦА ЖЁЛТОЕ ЗОЛОТО",
@@ -20151,6 +22221,62 @@
     "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-803221.mp4",
     "same_as_base": false
    }
+  },
+  {
+   "art": "R-805145",
+   "category": "Кольца",
+   "subfolder": "КОЛЬЦА БЕЛОЕ ЗОЛОТО",
+   "name": "Груша павё-шинка",
+   "tagline": "Кольцо-солитер с бриллиантом груша и дорожкой павё, белое золото.",
+   "specs": {
+    "Тип изделия": "Кольцо",
+    "Металл": "Белое золото · 585 / 750",
+    "Вес золота": "~3.0 г",
+    "Основной камень": "Бриллиант (белый)",
+    "Огранка центра": "Груша (Pear)",
+    "Боковые камни": "павё по шинке",
+    "Общий доп. вес": "~0.3 ct",
+    "Качество": "VS–SI / G–H",
+    "Тип закрепки": "Крапаны + павё",
+    "Стиль": "Солитер / классика",
+    "Сертификат": "IGI · письменная гарантия"
+   },
+   "description": "Изящное кольцо с бриллиантом огранки груша и дорожкой павё по шинке из белого золота. Капля в обрамлении искрящейся дорожки. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).",
+   "prices": [
+    {
+     "Золото 585": "$1 490",
+     "Золото 750": "$1 780"
+    }
+   ],
+   "price_note": "Цена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.",
+   "files": {
+    "photos": [
+     "R-805145-1.jpg",
+     "R-805145-1-2.jpg",
+     "R-805145-1-3.jpg",
+     "R-805145-1-4.jpg"
+    ],
+    "video": "R-805145-1.mp4",
+    "card_short": "R-805145-1.pdf",
+    "card_long": "R-805145-1-описание.pdf"
+   },
+   "reply_short": "R-805145 — Груша павё-шинка\nМеталл: Белое золото · 585 / 750\nЗолото 585 — $1 490 · Золото 750 — $1 780\nВыращенные бриллианты, сертификат IGI · рассрочка 0% MBANK / ZERO\nЦена может измениться в зависимости от размера кольца.\nХотите подробную карточку с характеристиками?\n(Варианты этой модели: R-805145-1, R-805145-2)",
+   "reply_long": "R-805145 — Груша павё-шинка\nКольцо-солитер с бриллиантом груша и дорожкой павё, белое золото.\n\nТип изделия: Кольцо\nМеталл: Белое золото · 585 / 750\nВес золота: ~3.0 г\nОсновной камень: Бриллиант (белый)\nОгранка центра: Груша (Pear)\nБоковые камни: павё по шинке\nОбщий доп. вес: ~0.3 ct\nКачество: VS–SI / G–H\nТип закрепки: Крапаны + павё\nСтиль: Солитер / классика\nСертификат: IGI · письменная гарантия\n\nИзящное кольцо с бриллиантом огранки груша и дорожкой павё по шинке из белого золота. Капля в обрамлении искрящейся дорожки. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).\n\nЦены:\nЗолото 585 — $1 490 · Золото 750 — $1 780\n\nЦена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.\n\nКаталог с ценами: https://serene-cucurucho-853f94.netlify.app\nВесь ассортимент (около 480 изделий): https://alma-do-mar.com/magazin\nНапишите, что понравилось — подберём размер и пришлём фото/видео 🤍\nWhatsApp: https://wa.me/996550339966",
+   "media": {
+    "site_art": "R-805145",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-805145/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-805145/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-805145/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-805145/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-805145.mp4",
+    "same_as_base": false
+   },
+   "variants": [
+    "R-805145-1",
+    "R-805145-2"
+   ]
   },
   {
    "art": "R-805145-1",
@@ -20841,6 +22967,62 @@
    }
   },
   {
+   "art": "R-831702",
+   "category": "Кольца",
+   "subfolder": "КОЛЬЦА БЕЛОЕ ЗОЛОТО",
+   "name": "Солитер овал",
+   "tagline": "Кольцо-солитер с бриллиантом овальной огранки, белое золото.",
+   "specs": {
+    "Тип изделия": "Кольцо",
+    "Металл": "Белое золото · 585 / 750",
+    "Вес золота": "~3.0 г",
+    "Основной камень": "Бриллиант (белый)",
+    "Огранка центра": "Овал (Oval)",
+    "Боковые камни": "нет",
+    "Общий доп. вес": "—",
+    "Качество": "VS–SI / G–H",
+    "Тип закрепки": "Крапаны",
+    "Стиль": "Солитер / классика",
+    "Сертификат": "IGI · письменная гарантия"
+   },
+   "description": "Классический солитер с бриллиантом овальной огранки на гладкой шинке из белого золота. Чистая, элегантная и универсальная классика. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).",
+   "prices": [
+    {
+     "Золото 585": "$1 670",
+     "Золото 750": "$1 960"
+    }
+   ],
+   "price_note": "Цена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.",
+   "files": {
+    "photos": [
+     "R-831702-1.jpg",
+     "R-831702-1-2.jpg",
+     "R-831702-1-3.jpg",
+     "R-831702-1-4.jpg"
+    ],
+    "video": "R-831702-1.mp4",
+    "card_short": "R-831702-1.pdf",
+    "card_long": "R-831702-1-описание.pdf"
+   },
+   "reply_short": "R-831702 — Солитер овал\nМеталл: Белое золото · 585 / 750\nЗолото 585 — $1 670 · Золото 750 — $1 960\nВыращенные бриллианты, сертификат IGI · рассрочка 0% MBANK / ZERO\nЦена может измениться в зависимости от размера кольца.\nХотите подробную карточку с характеристиками?\n(Варианты этой модели: R-831702-1, R-831702-2)",
+   "reply_long": "R-831702 — Солитер овал\nКольцо-солитер с бриллиантом овальной огранки, белое золото.\n\nТип изделия: Кольцо\nМеталл: Белое золото · 585 / 750\nВес золота: ~3.0 г\nОсновной камень: Бриллиант (белый)\nОгранка центра: Овал (Oval)\nБоковые камни: нет\nОбщий доп. вес: —\nКачество: VS–SI / G–H\nТип закрепки: Крапаны\nСтиль: Солитер / классика\nСертификат: IGI · письменная гарантия\n\nКлассический солитер с бриллиантом овальной огранки на гладкой шинке из белого золота. Чистая, элегантная и универсальная классика. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).\n\nЦены:\nЗолото 585 — $1 670 · Золото 750 — $1 960\n\nЦена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.\n\nКаталог с ценами: https://serene-cucurucho-853f94.netlify.app\nВесь ассортимент (около 480 изделий): https://alma-do-mar.com/magazin\nНапишите, что понравилось — подберём размер и пришлём фото/видео 🤍\nWhatsApp: https://wa.me/996550339966",
+   "media": {
+    "site_art": "R-831702",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-831702/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-831702/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-831702/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-831702/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-831702.mp4",
+    "same_as_base": false
+   },
+   "variants": [
+    "R-831702-1",
+    "R-831702-2"
+   ]
+  },
+  {
    "art": "R-831702-1",
    "category": "Кольца",
    "subfolder": "КОЛЬЦА БЕЛОЕ ЗОЛОТО",
@@ -21091,6 +23273,62 @@
    }
   },
   {
+   "art": "R-848194",
+   "category": "Кольца",
+   "subfolder": "КОЛЬЦА ЖЁЛТОЕ ЗОЛОТО",
+   "name": "Груша павё-шинка",
+   "tagline": "Кольцо-солитер с бриллиантом груша и дорожкой павё, жёлтое золото.",
+   "specs": {
+    "Тип изделия": "Кольцо",
+    "Металл": "Жёлтое золото · 585 / 750",
+    "Вес золота": "~3.0 г",
+    "Основной камень": "Бриллиант (белый)",
+    "Огранка центра": "Груша (Pear)",
+    "Боковые камни": "павё по шинке",
+    "Общий доп. вес": "~0.3 ct",
+    "Качество": "VS–SI / G–H",
+    "Тип закрепки": "Крапаны + павё",
+    "Стиль": "Солитер / классика",
+    "Сертификат": "IGI · письменная гарантия"
+   },
+   "description": "Кольцо с бриллиантом огранки груша и бриллиантовой дорожкой павё по шинке из жёлтого золота. Капля в обрамлении искрящейся дорожки. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).",
+   "prices": [
+    {
+     "Золото 585": "$1 490",
+     "Золото 750": "$1 780"
+    }
+   ],
+   "price_note": "Цена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.",
+   "files": {
+    "photos": [
+     "R-848194-1.jpg",
+     "R-848194-1-2.jpg",
+     "R-848194-1-3.jpg",
+     "R-848194-1-4.jpg"
+    ],
+    "video": "R-848194-1.mp4",
+    "card_short": "R-848194-1.pdf",
+    "card_long": "R-848194-1-описание.pdf"
+   },
+   "reply_short": "R-848194 — Груша павё-шинка\nМеталл: Жёлтое золото · 585 / 750\nЗолото 585 — $1 490 · Золото 750 — $1 780\nВыращенные бриллианты, сертификат IGI · рассрочка 0% MBANK / ZERO\nЦена может измениться в зависимости от размера кольца.\nХотите подробную карточку с характеристиками?\n(Варианты этой модели: R-848194-1, R-848194-2)",
+   "reply_long": "R-848194 — Груша павё-шинка\nКольцо-солитер с бриллиантом груша и дорожкой павё, жёлтое золото.\n\nТип изделия: Кольцо\nМеталл: Жёлтое золото · 585 / 750\nВес золота: ~3.0 г\nОсновной камень: Бриллиант (белый)\nОгранка центра: Груша (Pear)\nБоковые камни: павё по шинке\nОбщий доп. вес: ~0.3 ct\nКачество: VS–SI / G–H\nТип закрепки: Крапаны + павё\nСтиль: Солитер / классика\nСертификат: IGI · письменная гарантия\n\nКольцо с бриллиантом огранки груша и бриллиантовой дорожкой павё по шинке из жёлтого золота. Капля в обрамлении искрящейся дорожки. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).\n\nЦены:\nЗолото 585 — $1 490 · Золото 750 — $1 780\n\nЦена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.\n\nКаталог с ценами: https://serene-cucurucho-853f94.netlify.app\nВесь ассортимент (около 480 изделий): https://alma-do-mar.com/magazin\nНапишите, что понравилось — подберём размер и пришлём фото/видео 🤍\nWhatsApp: https://wa.me/996550339966",
+   "media": {
+    "site_art": "R-848194",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-848194/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-848194/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-848194/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-848194/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-848194.mp4",
+    "same_as_base": false
+   },
+   "variants": [
+    "R-848194-1",
+    "R-848194-2"
+   ]
+  },
+  {
    "art": "R-848194-1",
    "category": "Кольца",
    "subfolder": "КОЛЬЦА ЖЁЛТОЕ ЗОЛОТО",
@@ -21193,6 +23431,31 @@
     "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-848194.mp4",
     "same_as_base": true
    }
+  },
+  {
+   "art": "R-851392",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо-солитер radiant с паве",
+   "tagline": "Солитер прямоугольной огранки с паве.",
+   "specs": {},
+   "description": "Солитер прямоугольной огранки с паве.",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-851392",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-851392/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-851392/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-851392/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-851392/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-851392.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-851392 — Кольцо-солитер radiant с паве\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-851392 — Кольцо-солитер radiant с паве\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
   },
   {
    "art": "R-855065",
@@ -21392,6 +23655,62 @@
    }
   },
   {
+   "art": "R-859849",
+   "category": "Кольца",
+   "subfolder": "КОЛЬЦА ЖЁЛТОЕ ЗОЛОТО",
+   "name": "Кушон павё-шинка",
+   "tagline": "Кольцо-солитер с бриллиантом кушон и дорожкой павё, жёлтое золото.",
+   "specs": {
+    "Тип изделия": "Кольцо",
+    "Металл": "Жёлтое золото · 585 / 750",
+    "Вес золота": "~3.0 г",
+    "Основной камень": "Бриллиант (белый)",
+    "Огранка центра": "Кушон (Cushion)",
+    "Боковые камни": "павё по шинке",
+    "Общий доп. вес": "~0.3 ct",
+    "Качество": "VS–SI / G–H",
+    "Тип закрепки": "Крапаны + павё",
+    "Стиль": "Солитер / классика",
+    "Сертификат": "IGI · письменная гарантия"
+   },
+   "description": "Кольцо с бриллиантом мягкой огранки кушон и бриллиантовой дорожкой павё по шинке из жёлтого золота. Тёплая форма и максимум искры. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).",
+   "prices": [
+    {
+     "Золото 585": "$1 600",
+     "Золото 750": "$1 890"
+    }
+   ],
+   "price_note": "Цена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.",
+   "files": {
+    "photos": [
+     "R-859849-1.jpg",
+     "R-859849-1-2.jpg",
+     "R-859849-1-3.jpg",
+     "R-859849-1-4.jpg"
+    ],
+    "video": "R-859849-1.mp4",
+    "card_short": "R-859849-1.pdf",
+    "card_long": "R-859849-1-описание.pdf"
+   },
+   "reply_short": "R-859849 — Кушон павё-шинка\nМеталл: Жёлтое золото · 585 / 750\nЗолото 585 — $1 600 · Золото 750 — $1 890\nВыращенные бриллианты, сертификат IGI · рассрочка 0% MBANK / ZERO\nЦена может измениться в зависимости от размера кольца.\nХотите подробную карточку с характеристиками?\n(Варианты этой модели: R-859849-1, R-859849-2)",
+   "reply_long": "R-859849 — Кушон павё-шинка\nКольцо-солитер с бриллиантом кушон и дорожкой павё, жёлтое золото.\n\nТип изделия: Кольцо\nМеталл: Жёлтое золото · 585 / 750\nВес золота: ~3.0 г\nОсновной камень: Бриллиант (белый)\nОгранка центра: Кушон (Cushion)\nБоковые камни: павё по шинке\nОбщий доп. вес: ~0.3 ct\nКачество: VS–SI / G–H\nТип закрепки: Крапаны + павё\nСтиль: Солитер / классика\nСертификат: IGI · письменная гарантия\n\nКольцо с бриллиантом мягкой огранки кушон и бриллиантовой дорожкой павё по шинке из жёлтого золота. Тёплая форма и максимум искры. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).\n\nЦены:\nЗолото 585 — $1 600 · Золото 750 — $1 890\n\nЦена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.\n\nКаталог с ценами: https://serene-cucurucho-853f94.netlify.app\nВесь ассортимент (около 480 изделий): https://alma-do-mar.com/magazin\nНапишите, что понравилось — подберём размер и пришлём фото/видео 🤍\nWhatsApp: https://wa.me/996550339966",
+   "media": {
+    "site_art": "R-859849",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-859849/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-859849/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-859849/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-859849/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-859849.mp4",
+    "same_as_base": false
+   },
+   "variants": [
+    "R-859849-1",
+    "R-859849-2"
+   ]
+  },
+  {
    "art": "R-859849-1",
    "category": "Кольца",
    "subfolder": "КОЛЬЦА ЖЁЛТОЕ ЗОЛОТО",
@@ -21567,6 +23886,63 @@
     "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-862946.mp4",
     "same_as_base": false
    }
+  },
+  {
+   "art": "R-863182",
+   "category": "Кольца",
+   "subfolder": "КОЛЬЦА ЖЁЛТОЕ ЗОЛОТО",
+   "name": "Солитер радиант",
+   "tagline": "Кольцо-солитер с бриллиантом огранки радиант на гладкой шинке, жёлтое золото.",
+   "specs": {
+    "Тип изделия": "Кольцо",
+    "Металл": "Жёлтое золото · 585 / 750",
+    "Вес золота": "~3.0 г",
+    "Основной камень": "Бриллиант (белый)",
+    "Огранка центра": "Радиант (Radiant)",
+    "Боковые камни": "нет",
+    "Общий доп. вес": "—",
+    "Качество": "VS–SI / G–H",
+    "Тип закрепки": "Крапаны",
+    "Стиль": "Солитер / классика",
+    "Сертификат": "IGI · письменная гарантия"
+   },
+   "description": "Кольцо-солитер с бриллиантом яркой огранки радиант на гладкой полированной шинке из жёлтого золота. Прямоугольная форма с максимумом граней и блеска. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).",
+   "prices": [
+    {
+     "Золото 585": "$1 690",
+     "Золото 750": "$1 980"
+    }
+   ],
+   "price_note": "Цена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.",
+   "files": {
+    "photos": [
+     "R-863182-1.jpg",
+     "R-863182-1-2.jpg",
+     "R-863182-1-3.jpg",
+     "R-863182-1-4.jpg"
+    ],
+    "video": "R-863182-1.mp4",
+    "card_short": "R-863182-1.pdf",
+    "card_long": "R-863182-1-описание.pdf"
+   },
+   "reply_short": "R-863182 — Солитер радиант\nМеталл: Жёлтое золото · 585 / 750\nЗолото 585 — $1 690 · Золото 750 — $1 980\nВыращенные бриллианты, сертификат IGI · рассрочка 0% MBANK / ZERO\nЦена может измениться в зависимости от размера кольца.\nХотите подробную карточку с характеристиками?\n(Варианты этой модели: R-863182-1, R-863182-2, R-863182-3)",
+   "reply_long": "R-863182 — Солитер радиант\nКольцо-солитер с бриллиантом огранки радиант на гладкой шинке, жёлтое золото.\n\nТип изделия: Кольцо\nМеталл: Жёлтое золото · 585 / 750\nВес золота: ~3.0 г\nОсновной камень: Бриллиант (белый)\nОгранка центра: Радиант (Radiant)\nБоковые камни: нет\nОбщий доп. вес: —\nКачество: VS–SI / G–H\nТип закрепки: Крапаны\nСтиль: Солитер / классика\nСертификат: IGI · письменная гарантия\n\nКольцо-солитер с бриллиантом яркой огранки радиант на гладкой полированной шинке из жёлтого золота. Прямоугольная форма с максимумом граней и блеска. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).\n\nЦены:\nЗолото 585 — $1 690 · Золото 750 — $1 980\n\nЦена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.\n\nКаталог с ценами: https://serene-cucurucho-853f94.netlify.app\nВесь ассортимент (около 480 изделий): https://alma-do-mar.com/magazin\nНапишите, что понравилось — подберём размер и пришлём фото/видео 🤍\nWhatsApp: https://wa.me/996550339966",
+   "media": {
+    "site_art": "R-863182",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-863182/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-863182/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-863182/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-863182/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-863182.mp4",
+    "same_as_base": false
+   },
+   "variants": [
+    "R-863182-1",
+    "R-863182-2",
+    "R-863182-3"
+   ]
   },
   {
    "art": "R-863182-1",
@@ -22326,6 +24702,31 @@
    }
   },
   {
+   "art": "R-884536",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-884536",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-884536/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-884536/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-884536/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-884536/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-884536.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-884536 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-884536 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
    "art": "R-890124",
    "category": "Кольца",
    "subfolder": "КОЛЬЦА БЕЛОЕ ЗОЛОТО",
@@ -23035,6 +25436,31 @@
    }
   },
   {
+   "art": "R-926972",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-926972",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-926972/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-926972/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-926972/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-926972/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-926972.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-926972 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-926972 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
    "art": "R-929095",
    "category": "Кольца",
    "subfolder": "КОЛЬЦА ЖЁЛТОЕ ЗОЛОТО",
@@ -23155,6 +25581,31 @@
     "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-934481.mp4",
     "same_as_base": false
    }
+  },
+  {
+   "art": "R-938581",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-938581",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-938581/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-938581/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-938581/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-938581/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-938581.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-938581 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-938581 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
   },
   {
    "art": "R-938662",
@@ -23291,6 +25742,62 @@
    "reply_short": "R-939895 — Кольцо овальное переплетение с паве\nМеталл: Белое золото · 585 / 750\n1 ct: 585 — $1 580 · 750 — $1 910\n2 ct: 585 — $1 900 · 750 — $2 230\n3 ct: 585 — $2 220 · 750 — $2 550\n4 ct: 585 — $2 540 · 750 — $2 870\n5 ct: 585 — $2 860 · 750 — $3 190\nВыращенные бриллианты, сертификат IGI · рассрочка 0% MBANK / ZERO\nЦена может измениться в зависимости от размера кольца.\nХотите подробную карточку с характеристиками?",
    "reply_long": "R-939895 — Кольцо овальное переплетение с паве\nОвальный бриллиант на перекрещенной паве-шинке (кроссовер) — эффектное кольцо из белого золота.\n\nТип изделия: Кольцо\nМеталл: Белое золото · 585 / 750\nВес золота: ~3.4 г\nОсновной камень: Бриллиант\nОгранка центра: Овальная (Oval)\nБоковые камни: паве (переплетение) ~0.4 ct\nОбщий доп. вес: ~0.4 ct\nКачество: VS–SI / G–H\nТип закрепки: Крапаны + паве (кроссовер)\nСтиль: Кроссовер / современная\nСертификат: IGI · письменная гарантия\n\nКольцо с центральным овальным бриллиантом на шинке-переплетении (кроссовер): дорожки паве перекрещиваются у центра, обнимая камень и создавая динамичный, современный силуэт. Овал визуально удлиняет палец, а игра линий и блеска добавляет характера.\n\nЦены:\n1 ct: 585 — $1 580 · 750 — $1 910\n2 ct: 585 — $1 900 · 750 — $2 230\n3 ct: 585 — $2 220 · 750 — $2 550\n4 ct: 585 — $2 540 · 750 — $2 870\n5 ct: 585 — $2 860 · 750 — $3 190\n\nЦена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.\n\nКаталог с ценами: https://serene-cucurucho-853f94.netlify.app\nВесь ассортимент (около 480 изделий): https://alma-do-mar.com/magazin\nНапишите, что понравилось — подберём размер и пришлём фото/видео 🤍\nWhatsApp: https://wa.me/996550339966",
    "media": null
+  },
+  {
+   "art": "R-941023",
+   "category": "Кольца",
+   "subfolder": "КОЛЬЦА ЖЁЛТОЕ ЗОЛОТО",
+   "name": "Солитер сердце",
+   "tagline": "Кольцо-солитер с бриллиантом огранки сердце, жёлтое золото.",
+   "specs": {
+    "Тип изделия": "Кольцо",
+    "Металл": "Жёлтое золото · 585 / 750",
+    "Вес золота": "~3.0 г",
+    "Основной камень": "Бриллиант (белый)",
+    "Огранка центра": "Сердце (Heart)",
+    "Боковые камни": "нет",
+    "Общий доп. вес": "—",
+    "Качество": "VS–SI / G–H",
+    "Тип закрепки": "Крапаны",
+    "Стиль": "Солитер / классика",
+    "Сертификат": "IGI · письменная гарантия"
+   },
+   "description": "Романтичный солитер с бриллиантом огранки сердце на гладкой шинке из жёлтого золота. Символичная форма для особого подарка. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).",
+   "prices": [
+    {
+     "Золото 585": "$1 530",
+     "Золото 750": "$1 820"
+    }
+   ],
+   "price_note": "Цена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.",
+   "files": {
+    "photos": [
+     "R-941023-1.jpg",
+     "R-941023-1-2.jpg",
+     "R-941023-1-3.jpg",
+     "R-941023-1-4.jpg"
+    ],
+    "video": "R-941023-1.mp4",
+    "card_short": "R-941023-1.pdf",
+    "card_long": "R-941023-1-описание.pdf"
+   },
+   "reply_short": "R-941023 — Солитер сердце\nМеталл: Жёлтое золото · 585 / 750\nЗолото 585 — $1 530 · Золото 750 — $1 820\nВыращенные бриллианты, сертификат IGI · рассрочка 0% MBANK / ZERO\nЦена может измениться в зависимости от размера кольца.\nХотите подробную карточку с характеристиками?\n(Варианты этой модели: R-941023-1, R-941023-2)",
+   "reply_long": "R-941023 — Солитер сердце\nКольцо-солитер с бриллиантом огранки сердце, жёлтое золото.\n\nТип изделия: Кольцо\nМеталл: Жёлтое золото · 585 / 750\nВес золота: ~3.0 г\nОсновной камень: Бриллиант (белый)\nОгранка центра: Сердце (Heart)\nБоковые камни: нет\nОбщий доп. вес: —\nКачество: VS–SI / G–H\nТип закрепки: Крапаны\nСтиль: Солитер / классика\nСертификат: IGI · письменная гарантия\n\nРомантичный солитер с бриллиантом огранки сердце на гладкой шинке из жёлтого золота. Символичная форма для особого подарка. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).\n\nЦены:\nЗолото 585 — $1 530 · Золото 750 — $1 820\n\nЦена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.\n\nКаталог с ценами: https://serene-cucurucho-853f94.netlify.app\nВесь ассортимент (около 480 изделий): https://alma-do-mar.com/magazin\nНапишите, что понравилось — подберём размер и пришлём фото/видео 🤍\nWhatsApp: https://wa.me/996550339966",
+   "media": {
+    "site_art": "R-941023",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-941023/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-941023/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-941023/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-941023/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-941023.mp4",
+    "same_as_base": false
+   },
+   "variants": [
+    "R-941023-1",
+    "R-941023-2"
+   ]
   },
   {
    "art": "R-941023-1",
@@ -23802,6 +26309,31 @@
     "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-957431.mp4",
     "same_as_base": false
    }
+  },
+  {
+   "art": "R-963803",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо три камня изумрудной огранки",
+   "tagline": "Три камня изумрудной огранки, паве.",
+   "specs": {},
+   "description": "Три камня изумрудной огранки, паве.",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-963803",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-963803/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-963803/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-963803/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-963803/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-963803.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-963803 — Кольцо три камня изумрудной огранки\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-963803 — Кольцо три камня изумрудной огранки\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
   },
   {
    "art": "R-967461",
@@ -24367,6 +26899,31 @@
    }
   },
   {
+   "art": "R-987202",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-987202",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-987202/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-987202/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-987202/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-987202/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-987202.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-987202 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-987202 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
    "art": "R-988290",
    "category": "Кольца",
    "subfolder": "КОЛЬЦА ЖЁЛТОЕ ЗОЛОТО",
@@ -24419,6 +26976,31 @@
    }
   },
   {
+   "art": "R-988708",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо-солитер «овал» (винтаж)",
+   "tagline": "Овальный солитер на винтажной шинке.",
+   "specs": {},
+   "description": "Овальный солитер на винтажной шинке.",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-988708",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-988708/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-988708/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-988708/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-988708/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-988708.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-988708 — Кольцо-солитер «овал» (винтаж)\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-988708 — Кольцо-солитер «овал» (винтаж)\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
    "art": "R-988773",
    "category": "Кольца",
    "subfolder": "КОЛЬЦА ЖЁЛТОЕ ЗОЛОТО",
@@ -24469,6 +27051,88 @@
     "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-988773.mp4",
     "same_as_base": false
    }
+  },
+  {
+   "art": "R-990695",
+   "category": "Кольца",
+   "subfolder": null,
+   "name": "Кольцо",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "R-990695",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-990695/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-990695/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-990695/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-990695/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-990695.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "R-990695 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "R-990695 — Кольцо\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
+   "art": "R-990712",
+   "category": "Кольца",
+   "subfolder": "КОЛЬЦА БЕЛОЕ ЗОЛОТО",
+   "name": "Солитер овал",
+   "tagline": "Кольцо-солитер с овальным бриллиантом на шинке-байпас, белое золото.",
+   "specs": {
+    "Тип изделия": "Кольцо-солитер",
+    "Металл": "Белое золото · 585 / 750",
+    "Вес золота": "~3.0 г",
+    "Основной камень": "Бриллиант (белый)",
+    "Огранка центра": "Овал (Oval)",
+    "Боковые камни": "нет",
+    "Общий доп. вес": "—",
+    "Качество": "VS–SI / лаб",
+    "Тип закрепки": "Крапаны",
+    "Стиль": "Солитер / байпас",
+    "Сертификат": "IGI"
+   },
+   "description": "Кольцо-солитер с овальным бриллиантом на изящной перекрещённой шинке-байпас из белого золота. Классика с лёгким современным акцентом. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).",
+   "prices": [
+    {
+     "Золото 585": "$1 510",
+     "Золото 750": "$1 800"
+    }
+   ],
+   "price_note": "Цена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.",
+   "files": {
+    "photos": [
+     "R-990712-1.jpg",
+     "R-990712-1-2.jpg",
+     "R-990712-1-3.jpg",
+     "R-990712-1-4.jpg"
+    ],
+    "video": "R-990712-1.mp4",
+    "card_short": "R-990712-1.pdf",
+    "card_long": "R-990712-1-описание.pdf"
+   },
+   "reply_short": "R-990712 — Солитер овал\nМеталл: Белое золото · 585 / 750\nЗолото 585 — $1 510 · Золото 750 — $1 800\nВыращенные бриллианты, сертификат IGI · рассрочка 0% MBANK / ZERO\nЦена может измениться в зависимости от размера кольца.\nХотите подробную карточку с характеристиками?\n(Варианты этой модели: R-990712-1, R-990712-2, R-990712-3)",
+   "reply_long": "R-990712 — Солитер овал\nКольцо-солитер с овальным бриллиантом на шинке-байпас, белое золото.\n\nТип изделия: Кольцо-солитер\nМеталл: Белое золото · 585 / 750\nВес золота: ~3.0 г\nОсновной камень: Бриллиант (белый)\nОгранка центра: Овал (Oval)\nБоковые камни: нет\nОбщий доп. вес: —\nКачество: VS–SI / лаб\nТип закрепки: Крапаны\nСтиль: Солитер / байпас\nСертификат: IGI\n\nКольцо-солитер с овальным бриллиантом на изящной перекрещённой шинке-байпас из белого золота. Классика с лёгким современным акцентом. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).\n\nЦены:\nЗолото 585 — $1 510 · Золото 750 — $1 800\n\nЦена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.\n\nКаталог с ценами: https://serene-cucurucho-853f94.netlify.app\nВесь ассортимент (около 480 изделий): https://alma-do-mar.com/magazin\nНапишите, что понравилось — подберём размер и пришлём фото/видео 🤍\nWhatsApp: https://wa.me/996550339966",
+   "media": {
+    "site_art": "R-990712",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-990712/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-990712/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-990712/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-990712/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-990712.mp4",
+    "same_as_base": false
+   },
+   "variants": [
+    "R-990712-1",
+    "R-990712-2",
+    "R-990712-3"
+   ]
   },
   {
    "art": "R-990712-1",
@@ -26201,6 +28865,79 @@
    "media": null
   },
   {
+   "art": "P-929020",
+   "category": "Подвески и кулоны",
+   "subfolder": null,
+   "name": "Кулон-кольцо открытый",
+   "tagline": "Кулон-кольцо с мотивом винтов.",
+   "specs": {},
+   "description": "Кулон-кольцо с мотивом винтов.",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "P-929020",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/P-929020/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/P-929020/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/P-929020/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/P-929020/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/P-929020.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "P-929020 — Кулон-кольцо открытый\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "P-929020 — Кулон-кольцо открытый\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
+   "art": "P-930785",
+   "category": "Подвески и кулоны",
+   "subfolder": null,
+   "name": "Подвеска",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "P-930785",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/P-930785/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/P-930785/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/P-930785/3.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/P-930785.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "P-930785 — Подвеска\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "P-930785 — Подвеска\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
+   "art": "P-952829",
+   "category": "Подвески и кулоны",
+   "subfolder": null,
+   "name": "Подвеска",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "P-952829",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/P-952829/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/P-952829/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/P-952829/3.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/P-952829.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "P-952829 — Подвеска\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "P-952829 — Подвеска\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
    "art": "P-988481",
    "category": "Подвески и кулоны",
    "subfolder": "КУЛОНЫ",
@@ -27680,6 +30417,31 @@
    "media": null
   },
   {
+   "art": "E-528358",
+   "category": "Серьги",
+   "subfolder": null,
+   "name": "Серьги",
+   "tagline": "",
+   "specs": {},
+   "description": "",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "E-528358",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/E-528358/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/E-528358/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/E-528358/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/E-528358/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/E-528358.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "E-528358 — Серьги\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "E-528358 — Серьги\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
    "art": "E-572102",
    "category": "Серьги",
    "subfolder": "ПУСЕТЫ",
@@ -27727,6 +30489,31 @@
     "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/E-572102.mp4",
     "same_as_base": false
    }
+  },
+  {
+   "art": "E-584448",
+   "category": "Серьги",
+   "subfolder": null,
+   "name": "Пусеты-кластер «цветок»",
+   "tagline": "Пусеты с цветочным кластером.",
+   "specs": {},
+   "description": "Пусеты с цветочным кластером.",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "E-584448",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/E-584448/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/E-584448/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/E-584448/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/E-584448/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/E-584448.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "E-584448 — Пусеты-кластер «цветок»\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "E-584448 — Пусеты-кластер «цветок»\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
   },
   {
    "art": "E-600528",
@@ -28615,6 +31402,31 @@
    }
   },
   {
+   "art": "E-871051",
+   "category": "Серьги",
+   "subfolder": null,
+   "name": "Пусеты-солитеры round",
+   "tagline": "Пусеты-солитеры, розовое золото.",
+   "specs": {},
+   "description": "Пусеты-солитеры, розовое золото.",
+   "prices": [],
+   "price_note": "",
+   "media": {
+    "site_art": "E-871051",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/E-871051/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/E-871051/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/E-871051/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/E-871051/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/E-871051.mp4",
+    "same_as_base": false
+   },
+   "no_card": true,
+   "reply_short": "E-871051 — Пусеты-солитеры round\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?",
+   "reply_long": "E-871051 — Пусеты-солитеры round\nЦену и характеристики этой модели уточню у менеджера и вернусь 🤍\nПодскажите, пожалуйста, какой металл (белое / жёлтое / розовое золото) и размер интересуют?"
+  },
+  {
    "art": "E-905952",
    "category": "Серьги",
    "subfolder": "серьги",
@@ -28938,6 +31750,62 @@
    }
   },
   {
+   "art": "R-247277",
+   "category": "Серьги",
+   "subfolder": "ПУСЕТЫ",
+   "name": "Пусеты",
+   "tagline": "изумруд овал",
+   "specs": {
+    "Тип изделия": "Серьги-пусеты",
+    "Металл": "Жёлтое золото · 585 / 750",
+    "Вес золота": "~2.0 г",
+    "Основной камень": "Изумруд лаб",
+    "Огранка центра": "Овал (Oval)",
+    "Боковые камни": "нет",
+    "Общий доп. вес": "—",
+    "Качество": "VS–SI / лаб",
+    "Тип закрепки": "Крапаны",
+    "Стиль": "Лаб-камни · пусеты",
+    "Сертификат": "IGI"
+   },
+   "description": "Серьги-пусеты с насыщенно-зелёными выращенными изумрудами овальной огранки в аккуратных крапанах из жёлтого золота. Классическая пара на каждый день и в дополнение к кольцу-гарнитуру. Все камни — выращенные в лаборатории (лаб-граун), с сертификатом IGI и письменной гарантией. По оптике, твёрдости и составу камень идентичен природному, цена — заметно доступнее. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).",
+   "prices": [
+    {
+     "585": "$1 330",
+     "750": "$1 520"
+    }
+   ],
+   "price_note": "Цена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.",
+   "files": {
+    "photos": [
+     "R-247277-1.jpg",
+     "R-247277-1-2.jpg",
+     "R-247277-1-3.jpg",
+     "R-247277-1-4.jpg"
+    ],
+    "video": "R-247277-1.mp4",
+    "card_short": "R-247277-1.pdf",
+    "card_long": "R-247277-1-описание.pdf"
+   },
+   "reply_short": "R-247277 — Пусеты\nМеталл: Жёлтое золото · 585 / 750\n585 — $1 330 · 750 — $1 520\nВыращенные бриллианты, сертификат IGI · рассрочка 0% MBANK / ZERO\nХотите подробную карточку с характеристиками?\n(Варианты этой модели: R-247277-1, R-247277-2)",
+   "reply_long": "R-247277 — Пусеты\nизумруд овал\n\nТип изделия: Серьги-пусеты\nМеталл: Жёлтое золото · 585 / 750\nВес золота: ~2.0 г\nОсновной камень: Изумруд лаб\nОгранка центра: Овал (Oval)\nБоковые камни: нет\nОбщий доп. вес: —\nКачество: VS–SI / лаб\nТип закрепки: Крапаны\nСтиль: Лаб-камни · пусеты\nСертификат: IGI\n\nСерьги-пусеты с насыщенно-зелёными выращенными изумрудами овальной огранки в аккуратных крапанах из жёлтого золота. Классическая пара на каждый день и в дополнение к кольцу-гарнитуру. Все камни — выращенные в лаборатории (лаб-граун), с сертификатом IGI и письменной гарантией. По оптике, твёрдости и составу камень идентичен природному, цена — заметно доступнее. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).\n\nЦены:\n585 — $1 330 · 750 — $1 520\n\nЦена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.\n\nКаталог с ценами: https://serene-cucurucho-853f94.netlify.app\nВесь ассортимент (около 480 изделий): https://alma-do-mar.com/magazin\nНапишите, что понравилось — подберём размер и пришлём фото/видео 🤍\nWhatsApp: https://wa.me/996550339966",
+   "media": {
+    "site_art": "R-247277",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-247277/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-247277/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-247277/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-247277/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-247277.mp4",
+    "same_as_base": false
+   },
+   "variants": [
+    "R-247277-1",
+    "R-247277-2"
+   ]
+  },
+  {
    "art": "R-247277-1",
    "category": "Серьги",
    "subfolder": "ПУСЕТЫ",
@@ -28988,6 +31856,62 @@
     "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-247277.mp4",
     "same_as_base": true
    }
+  },
+  {
+   "art": "R-497618",
+   "category": "Серьги",
+   "subfolder": "серьги",
+   "name": "Подвески",
+   "tagline": "жёлтый бриллиант",
+   "specs": {
+    "Тип изделия": "Серьги-подвески",
+    "Металл": "Белое + жёлтое золото · 585 / 750",
+    "Вес золота": "~3.0 г",
+    "Основной камень": "Жёлтый бриллиант лаб (fancy yellow)",
+    "Огранка центра": "Изумрудная (Emerald)",
+    "Боковые камни": "круглые бриллианты (верх)",
+    "Общий доп. вес": "~0.6 ct",
+    "Качество": "VS–SI / лаб",
+    "Тип закрепки": "Крапаны",
+    "Стиль": "Лаб-камни · подвески",
+    "Сертификат": "IGI"
+   },
+   "description": "Серьги-подвески: сверху бриллиантовая дужка из белого золота с круглым бриллиантом, ниже — крупный выращенный жёлтый бриллиант (fancy yellow) изумрудной огранки в жёлтом золоте. Нарядный вечерний вариант в пару к кольцу. Все камни — выращенные в лаборатории (лаб-граун), с сертификатом IGI и письменной гарантией. По оптике, твёрдости и составу камень идентичен природному, цена — заметно доступнее. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).",
+   "prices": [
+    {
+     "585": "$2 020",
+     "750": "$2 310"
+    }
+   ],
+   "price_note": "Цена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.",
+   "files": {
+    "photos": [
+     "R-497618-1.jpg",
+     "R-497618-1-2.jpg",
+     "R-497618-1-3.jpg",
+     "R-497618-1-4.jpg"
+    ],
+    "video": "R-497618-1.mp4",
+    "card_short": "R-497618-1.pdf",
+    "card_long": "R-497618-1-описание.pdf"
+   },
+   "reply_short": "R-497618 — Подвески\nМеталл: Белое + жёлтое золото · 585 / 750\n585 — $2 020 · 750 — $2 310\nВыращенные бриллианты, сертификат IGI · рассрочка 0% MBANK / ZERO\nХотите подробную карточку с характеристиками?\n(Варианты этой модели: R-497618-1, R-497618-2)",
+   "reply_long": "R-497618 — Подвески\nжёлтый бриллиант\n\nТип изделия: Серьги-подвески\nМеталл: Белое + жёлтое золото · 585 / 750\nВес золота: ~3.0 г\nОсновной камень: Жёлтый бриллиант лаб (fancy yellow)\nОгранка центра: Изумрудная (Emerald)\nБоковые камни: круглые бриллианты (верх)\nОбщий доп. вес: ~0.6 ct\nКачество: VS–SI / лаб\nТип закрепки: Крапаны\nСтиль: Лаб-камни · подвески\nСертификат: IGI\n\nСерьги-подвески: сверху бриллиантовая дужка из белого золота с круглым бриллиантом, ниже — крупный выращенный жёлтый бриллиант (fancy yellow) изумрудной огранки в жёлтом золоте. Нарядный вечерний вариант в пару к кольцу. Все камни — выращенные в лаборатории (лаб-граун), с сертификатом IGI и письменной гарантией. По оптике, твёрдости и составу камень идентичен природному, цена — заметно доступнее. На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).\n\nЦены:\n585 — $2 020 · 750 — $2 310\n\nЦена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.\n\nКаталог с ценами: https://serene-cucurucho-853f94.netlify.app\nВесь ассортимент (около 480 изделий): https://alma-do-mar.com/magazin\nНапишите, что понравилось — подберём размер и пришлём фото/видео 🤍\nWhatsApp: https://wa.me/996550339966",
+   "media": {
+    "site_art": "R-497618",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-497618/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-497618/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-497618/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/R-497618/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/R-497618.mp4",
+    "same_as_base": false
+   },
+   "variants": [
+    "R-497618-1",
+    "R-497618-2"
+   ]
   },
   {
    "art": "R-497618-1",
@@ -29353,6 +32277,64 @@
     "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/N-458573.mp4",
     "same_as_base": false
    }
+  },
+  {
+   "art": "N-511882",
+   "category": "Цепочки",
+   "subfolder": null,
+   "name": "Цепочка",
+   "tagline": "шариковая",
+   "specs": {
+    "Тип изделия": "Цепочка",
+    "Металл": "Жёлтое золото · 585 / 750",
+    "Вес золота": "~4.5 г",
+    "Основной камень": "Без вставок",
+    "Огранка центра": "—",
+    "Боковые камни": "нет",
+    "Общий доп. вес": "—",
+    "Качество": "VS–SI / G–H",
+    "Тип закрепки": "—",
+    "Стиль": "Цепочка / базовая",
+    "Сертификат": "IGI"
+   },
+   "description": "Базовая цепочка шариковая (бусинная) из жёлтого золота без вставок. Носится самостоятельно и в многослойном комплекте (layering). На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).",
+   "prices": [
+    {
+     "585": "$1 550",
+     "750": "$1 980"
+    }
+   ],
+   "price_note": "Цена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.",
+   "files": {
+    "photos": [
+     "N-511882-1.jpg",
+     "N-511882-1-2.jpg",
+     "N-511882-1-3.jpg",
+     "N-511882-1-4.jpg"
+    ],
+    "video": "N-511882-1.mp4",
+    "card_short": "N-511882-1.pdf",
+    "card_long": "N-511882-1-описание.pdf"
+   },
+   "reply_short": "N-511882 — Цепочка\nМеталл: Жёлтое золото · 585 / 750\n585 — $1 550 · 750 — $1 980\nВыращенные бриллианты, сертификат IGI · рассрочка 0% MBANK / ZERO\nХотите подробную карточку с характеристиками?\n(Варианты этой модели: N-511882-1, N-511882-2, N-511882-3, N-511882-4)",
+   "reply_long": "N-511882 — Цепочка\nшариковая\n\nТип изделия: Цепочка\nМеталл: Жёлтое золото · 585 / 750\nВес золота: ~4.5 г\nОсновной камень: Без вставок\nОгранка центра: —\nБоковые камни: нет\nОбщий доп. вес: —\nКачество: VS–SI / G–H\nТип закрепки: —\nСтиль: Цепочка / базовая\nСертификат: IGI\n\nБазовая цепочка шариковая (бусинная) из жёлтого золота без вставок. Носится самостоятельно и в многослойном комплекте (layering). На общем фото представлена вся линейка моделей — в этой карточке описано одно конкретное изделие (см. название и характеристики).\n\nЦены:\n585 — $1 550 · 750 — $1 980\n\nЦена ориентировочная: число камней и вес зависят от размера, а также от текущей биржевой цены золота, поэтому стоимость меняется. Напишите нам — подберём размер и назовём финальную стоимость.\n\nКаталог с ценами: https://serene-cucurucho-853f94.netlify.app\nВесь ассортимент (около 480 изделий): https://alma-do-mar.com/magazin\nНапишите, что понравилось — подберём размер и пришлём фото/видео 🤍\nWhatsApp: https://wa.me/996550339966",
+   "media": {
+    "site_art": "N-511882",
+    "photos": [
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/N-511882/1.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/N-511882/2.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/N-511882/3.jpg",
+     "https://serene-cucurucho-853f94.netlify.app/assets/img/N-511882/4.jpg"
+    ],
+    "video": "https://serene-cucurucho-853f94.netlify.app/assets/360/N-511882.mp4",
+    "same_as_base": false
+   },
+   "variants": [
+    "N-511882-1",
+    "N-511882-2",
+    "N-511882-3",
+    "N-511882-4"
+   ]
   },
   {
    "art": "N-511882-1",
